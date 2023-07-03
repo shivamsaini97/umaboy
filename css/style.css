@@ -1266,7 +1266,7 @@ body .review .owl-carousel .owl-item .review-img {
 .blog-wrapper .single-blog-section img {
 	width: 100%;
         object-fit: contain;
-		min-height: 200px;
+		min-height: 230px;
 }
 .blog-wrapper .single-blog-section{
 	text-align: center;
@@ -3140,6 +3140,9 @@ td:not(:first-child) {
 	font-size: 15px;
 	line-height: 24px;
 }
+.item-img {
+	margin: 40px 0px 50px;
+}
 @media (min-width:992px){
 	.product-menu {
 		position: static !important;
@@ -3156,5 +3159,8 @@ td:not(:first-child) {
 	}
 	.pop-up {
         margin-top: 37px;
+	}
+	.item-img {
+		margin: 0px 0px 50px;
 	}
 }
