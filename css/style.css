@@ -3226,6 +3226,11 @@ td:not(:first-child) {
 .w-50 {
 	width: 50%;
 }
+.head-para {
+	text-align: center;
+    line-height: 4rem;
+    font-size: 22px;
+}
 @media (min-width:992px){
 	.product-menu {
 		position: static !important;
