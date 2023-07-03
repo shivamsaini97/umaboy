@@ -1297,8 +1297,13 @@ body .review .owl-carousel .owl-item .review-img {
 }
 .blog-wrapper .single-blog-section img {
 	width: 100%;
+<<<<<<< HEAD
+        object-fit: contain;
+		min-height: 230px;
+=======
 	object-fit: contain;
 	min-height: 200px;
+>>>>>>> 9e46dc56ac5feee89c051ec9b0d859f8d0c5458b
 }
 .blog-wrapper .single-blog-section {
 	text-align: center;
@@ -3204,10 +3209,14 @@ td:not(:first-child) {
 	font-size: 15px;
 	line-height: 24px;
 }
+.item-img {
+	margin: 40px 0px 50px;
+}
 .head h2 {
 	font-size: 40px;
 	font-weight: 800;
 	text-align: center;
+	line-height: 6rem;
 }
 .paragraph p {
 	text-align: center;
@@ -3217,7 +3226,7 @@ td:not(:first-child) {
 .w-50 {
 	width: 50%;
 }
-@media (min-width: 992px) {
+@media (min-width:992px){
 	.product-menu {
 		position: static !important;
 	}
@@ -3233,5 +3242,8 @@ td:not(:first-child) {
 	}
 	.pop-up {
 		margin-top: 37px;
+	}
+	.item-img {
+		margin: 0px 0px 50px;
 	}
 }
