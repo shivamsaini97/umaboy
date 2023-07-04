@@ -38,32 +38,32 @@
     
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="beam-saw-detail.html"><img src="images/CNC_ROUTER_UCR_1325A.png" alt=""></a>
+          <a href="cnc-router-ucr-1325a.php"><img src="images/CNC_ROUTER_UCR_1325A.png" alt=""></a>
           <div class="blog-info">
             
             <div class="content">
-              <a href="beam-saw-detail.html"><h3>CNC Router UCR 1325A</h3></a>
+              <a href="cnc-router-ucr-1325a.php"><h3>CNC Router UCR 1325A</h3></a>
         
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="beam-saw-detail.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="cnc-router-ucr-1325a.php">read more</a></button>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="">
+          <a href="cnc-router-ucr-1325c.php">
             <img src="images/CNC_ROUTER_UCR_1325C.png" alt="">
           </a>
           <div class="blog-info">
             
             <div class="content">
-              <a href=""><h3>CNC Router UCR 1325C</h3></a>
+              <a href="cnc-router-ucr-1325c.php"><h3>CNC Router UCR 1325C</h3></a>
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="product-details.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="cnc-router-ucr-1325c.php">read more</a></button>
           </div>
         </div>
       </div>

@@ -2552,7 +2552,7 @@ span.email-notes {
 	width: 50px;
 }
 .footer-widget-content p {
-	color: #9fa4af;
+    color: #c2c2c2;
 }
 .footer-about-info-area .footer-widget-content {
 	margin-top: 35px;
@@ -2563,7 +2563,7 @@ span.email-notes {
 .footer-social-menu li a {
 	background: #1c1f23 none repeat scroll 0 0;
 	border-radius: 2px;
-	color: #9fa4af;
+	color: #c2c2c2;
 	display: block;
 	font-size: 16px;
 	height: 40px;

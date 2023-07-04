@@ -111,7 +111,7 @@
                     </div>
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
-                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="about.php">About us</a></li>
                             <li><a href="contact.php">Contact us</a></li>
                         </ul>
@@ -157,7 +157,7 @@
 <div class="copyright-wrapper">
     <div class="container">
         <p>
-            &copy; Copyright © 2023. All Rights Design by
+            Copyright © 2023. All Rights Design by
             <a href="https://www.cotginanalytics.in/">Cotgin Analytics</a>
         </p>
     </div>

@@ -52,7 +52,7 @@
             <img src="images/CNC_ROUTER_UCR_1325A.png" alt=""> </div>
         <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
           </div>
-          <div class="col-md-6">
+          <div class="col-md-6 mb-5">
             <div class="about-text">
             <!-- <h3>Reciprocating Beam Saw Machine</h3><hr/> -->
               
