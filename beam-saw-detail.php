@@ -159,7 +159,7 @@
           </ul>
           
 
-      Note: Technical specifications may be changed without any prior notice. Product images are just for the reference.
+      <b>Note : </b> Technical specifications may be changed without any prior notice. Product images are just for the reference.
     </p>
               
             </div>
@@ -174,7 +174,7 @@
                 </ul>
                 
         
-            Note: Technical specifications may be changed without any prior notice. Product images are just for the reference.
+            <b>Note : </b> Technical specifications may be changed without any prior notice. Product images are just for the reference.
           </p>
                     
                   </div>
