@@ -31,8 +31,9 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Perfection With Every Cut !!</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Perfection With </span><span class="blue-color">Every Cut !!</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
                 <p>UMABOY have more than 5000 panel saw across the world.The main reason behind this is Quality and Service.</p>

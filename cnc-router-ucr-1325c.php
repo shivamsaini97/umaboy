@@ -32,9 +32,10 @@
   <div class="home-aboutus-wrapper detail-page">
       <div class="container">
           <div class="row">
-              <div class="col-md-12 head">
-                  <h2>UCR 1325C</h2>
-              </div>
+          <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">UCR </span><span class="blue-color"> 1325C</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
+            </div>
               <!-- <div class="paragraph">
                   <p>Widely used for engraving, membrane door designing, acrylic carving, decorative panels, wave boards, grill boards etc.</p>
               </div> -->

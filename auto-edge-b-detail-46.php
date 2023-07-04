@@ -32,8 +32,9 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Technology In Form Of Wooden Strip Is Here.</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Technology In Form </span><span class="blue-color">Of Wooden Strip Is Here</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
             </div>

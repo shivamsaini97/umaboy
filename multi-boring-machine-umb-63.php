@@ -32,9 +32,10 @@
   <div class="home-aboutus-wrapper detail-page">
       <div class="container">
           <div class="row">
-              <div class="col-md-12 head">
-                  <h2>Three Line Multi-Boring Machine</h2>
-              </div>
+          <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Three Line Multi-Boring </span><span class="blue-color"> Machine</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
+            </div>
               <!-- <div class="paragraph">
                   <p>Minimum trouble; maximum dependability comprehensive technical service</p>
               </div> -->
@@ -143,7 +144,6 @@
             <div class="about-text">
         
         <img src="images/UMB_63_1.jpg" alt=""> </div>
-        <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
           </div>
         </div>
       </div>

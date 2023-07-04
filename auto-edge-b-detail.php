@@ -32,9 +32,9 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Edge Banding
-                    Without Compromise</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Edge Banding </span><span class="blue-color">Without Compromise</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
                 <p>Expert 2300 is a entry level Auto Edge Bander. It has end cutting unit with high frequency motor to excess the edge. This machine is suitable for flat cutting operation. Expert 2300 Edge banding machine has ergonomic structure and the fastest, shortest and easy to be used. The smart element of the machine is its compact design.</p>

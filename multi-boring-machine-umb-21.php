@@ -32,8 +32,10 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Perfect appearance for your Customer Satisfaction <br /> with absolutely Affordable Technology</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Perfect appearance for your Customer Satisfaction
+                with </span><span class="blue-color"> with absolutely Affordable Technology</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
                 <p>The multi boring machine for accurate and precise operation! Maximum precision when dowel boring with the Umaboy high quality drilling spindels positioned at 32 mm intervals, drills with a maximum diameter of 35 mm can be used, exact rows of holes and dowel bores are guaranteed. The solid steel table, stable fences, pneumatic workpiece clamps and ergonomical operating elements ensure Quality machines.</p>
