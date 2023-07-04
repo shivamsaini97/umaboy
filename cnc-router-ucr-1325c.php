@@ -12,7 +12,7 @@
                 <div class="container">
                   <div class="row">
                     <div class="col-md-12">
-                      <h2 style="text-transform:capitalize">CNC Router UCR 1325A</span></h2>
+                      <h2 style="text-transform:capitalize">CNC Router UCR 1325C</span></h2>
                     
                     <!-- <a class="slide-btn" href="javascript:void(0)">Contact Us</a>--></div>
                   </div>
@@ -33,11 +33,11 @@
       <div class="container">
           <div class="row">
               <div class="col-md-12 head">
-                  <h2>UCR 1325A</h2>
+                  <h2>UCR 1325C</h2>
               </div>
-              <div class="paragraph">
+              <!-- <div class="paragraph">
                   <p>Widely used for engraving, membrane door designing, acrylic carving, decorative panels, wave boards, grill boards etc.</p>
-              </div>
+              </div> -->
           </div>
       </div>
   </div>
@@ -59,91 +59,83 @@
             <table>
     <tr>
       <th>MODEL</th>
-      <th>UCR 1325A</th>
+      <th>UCR 1325C</th>
       
     </tr>
     <tr>
-      <td><b>Distance between the bit</b> </td>
-      <td>3280 mm</td>
+      <td><b>X, Y working area</b> </td>
+      <td>1300 x 2500mm</td>
       
     </tr>
     <tr>
-      <td><b>Horizontal head</b> </td>
-      <td>1</td>
+      <td><b>Z working area</b> </td>
+      <td>300mm</td>
       
     </tr>
     <tr>
-      <td><b>Vertical head</b> </td>
-      <td>2</td>
+      <td><b>Table size</b> </td>
+      <td>1440 x 3500mm	</td>
       
     </tr>
     <tr>
-      <td><b>Tilting Head</b> </td>
-      <td>1</td>
+      <td><b>Lathe structure</b> </td>
+      <td>Rack and pinion</td>
       
     </tr>
     <tr>
-      <td><b>The quantity of spindle</b></td>
-      <td>63</td>
+      <td><b>Max. Idling speed</b></td>
+      <td>40m/min</td>
       
     </tr>
     <tr>
-      <td><b>Maximum boring diameter</b></td>
-      <td>35mm</td>
+      <td><b>Spindle</b></td>
+      <td>8kw</td>
       
     </tr>
     <tr>
-      <td><b>Maximum panel thickness</b></td>
-      <td>60mm</td>
+      <td><b>Spindle speed</b></td>
+      <td>0-24000r/min</td>
       
     </tr>
     <tr>
-      <td><b>Maximum panel width</b></td>
-      <td>1800mm</td>
+      <td><b>Working mode</b></td>
+      <td>Servo</td>
       
     </tr>
     <tr>
-      <td><b>Minimum panel width</b></td>
-      <td>-</td>
+      <td><b>Command</b></td>
+      <td>G code, HPGL, Uoo</td>
       
     </tr>
     <tr>
-      <td><b>Total power</b></td>
-      <td>4.5kw</td>
+      <td><b>Operating system</b></td>
+      <td>LNC System</td>
+      
+    </tr>
+    <tr>
+      <td><b>Diameter of cutter</b></td>
+      <td>3.175 - 25.4 mm</td>
+      
+    </tr>
+    <tr>
+      <td><b>Cooling mode</b></td>
+      <td>Air Cooling</td>
+      
+    </tr>
+    <tr>
+      <td><b>Dust collect function</b></td>
+      <td>Yes</td>
+      
+    </tr>
+    <tr>
+      <td><b>Work holding</b></td>
+      <td>By clamp & suction</td>
       
     </tr>
   </table>
 
               
             </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="home-aboutus-wrapper detail-page">
-      <div class="container">
-        <div class="row">
-      
-          <div class="col-md-6">
-            <div class="about-text">
-        <h3>Salient Features </h3><hr/>
-          <ul class="list">
-            <li>The machine tool components choose the superior steel materials,they go through the highly and strong heat treatment.</li>
-            <li>The moving parts choose the high Grade anti-wear materials.</li>
-            <li>They are firm and durable.</li>
-            <li>Multi-drill has been elaborately made. It has multiple purposes with high speed and fine accuracy.</li>
-            <li>Equipped with one tilting head and two vertical head.</li>
-            <li>21 drilling bit in each head.</li>
-            <li>Mainly used for drilling in long board at one time.</li>
-          </ul>            
-            </div>
-          </div>
-          <div class="col-md-6 text-center">
-            <div class="about-text">
-        
-        <img src="images/UMB_63_1.jpg" alt=""> </div>
-        <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
           </div>
         </div>
       </div>

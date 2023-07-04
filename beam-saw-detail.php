@@ -149,12 +149,6 @@
     <div class="home-aboutus-wrapper detail-page">
       <div class="container">
         <div class="row">
-      <div class="col-md-6 text-center">
-            <div class="about-text">
-        
-        <img src="images/Beam-saw.png" alt=""> </div>
-        <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
-          </div>
           <div class="col-md-6">
             <div class="about-text">
         <h3>Saw Carriages </h3><hr/>
@@ -184,6 +178,13 @@
           </p>
                     
                   </div>
+          </div>
+          
+      <div class="col-md-6 text-center">
+            <div class="about-text">
+        
+        <img src="images/Beam-saw.png" alt=""> </div>
+        <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
           </div>
         </div>
       </div>
