@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 head">
-                <h2>Maximum Production Output With Excellent Cutting Of Multiple Panels</h2>
+                <h2>Maximum Production Output With Excellent<br> Cutting Of Multiple Panels</h2>
             </div>
             <!-- <div class="paragraph">
                 <p>Minimum trouble; maximum dependability comprehensive technical service</p>

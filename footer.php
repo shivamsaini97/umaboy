@@ -1,40 +1,4 @@
 
-
-<section class="pop-up" id="pop-up">
-<div class="container">
-    <div class="row">
-        <div class="col-md-6 col-sm-8 col-xs-12">
-            <div class="form-contact">
-                <a class="close-form" href="javascript:void(0)">x</a>
-                <img src="images/modal.jpg" alt="" />
-                <!-- <form action="javascript:void(0)" method="post" id="contact-form">
-    <div>
-      <label for="name">Name</label>
-      <input type="text" id="c-name" value=""  placeholder="Name" name="name" onkeydown="return /[a-z ]/i.test(event.key)" />
-    </div>
-
-    <div>
-      <label for="email">Email</label>
-      <input type="email"  id="c-mail" placeholder="Company Email"  name="email" onkeydown="return /^[w-.+]+@[a-zA-Z0-9.-]+.[a-zA-z0-9]{2,4}$/i.test(event.key)" />
-    </div>
-  
-    <div>
-      <label for="phone">Phone</label>
-      <input type="text" id="phone" placeholder="Phone" name="tel" maxlength="10" onkeypress="if(this.value.length==10) return false;" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1')"/>
-    </div>
-
-    <div>
-      <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea>
-    </div>
-    <button class="btn btn-default unicod-btn-black form-btn" type="submit">Submit</button>
-  </form> -->
-            </div>
-        </div>
-    </div>
-</div>
-</section>
-
 <div class="footer-wrapper">
 <div class="footer-top-area">
     <div class="container">
@@ -87,6 +51,21 @@
                     </div>
                 </div>
             </div>
+            
+            <div class="col-md-3 col-sm-6">
+                <div class="footer-contact">
+                    <div class="footer-widget-heading">
+                        <h3>Info</h3>
+                    </div>
+                    <div class="footer-widget-content">
+                        <ul class="footer-conatct-menu">
+                            <li><a href="index.php">Home</a></li>
+                            <li><a href="about.php">About us</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
             <div class="col-md-3 col-sm-6">
                 <div class="footer-tags-widget">
                     <div class="footer-widget-heading">
@@ -94,26 +73,12 @@
                     </div>
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
-                            <li><a href="push-button.php">Push Button</a></li>
-                            <li><a href="push-button.php">Indicator</a></li>
-                            <li><a href="push-button.php">Float Switch</a></li>
-                            <li><a href="push-button.php">Foot Switch</a></li>
-                            <li><a href="push-button.php">Remote Switch</a></li>
-                            <li><a href="push-button.php">Crane Switch</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-sm-6">
-                <div class="footer-contact">
-                    <div class="footer-widget-heading">
-                        <h3>Information</h3>
-                    </div>
-                    <div class="footer-widget-content">
-                        <ul class="footer-conatct-menu">
-                            <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About us</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
+                            <li><a href="beam-saw.php">BEAM SAW</a></li>
+                            <li><a href="panel-saw.php">PANEL SAW</a></li>
+                            <li><a href="auto-edge-bander.php">AUTO EDGE BANDER</a></li>
+                            <li><a href="dust-collector.php">DUST COLLECTOR</a></li>
+                            <li><a href="manual-edge-bander.php">MANUAL EDGE BANDER</a></li>
+                            <li><a href="post-forming.php">POST FORMING</a></li>
                         </ul>
                     </div>
                 </div>

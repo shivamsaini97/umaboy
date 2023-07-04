@@ -1,6 +1,39 @@
 <?php include('header.php');
  ?>
+<section class="pop-up" id="pop-up">
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-sm-8 col-xs-12">
+            <div class="form-contact">
+                <a class="close-form" href="javascript:void(0)">x</a>
+                <img src="images/modal.jpg" alt="" />
+                <!-- <form action="javascript:void(0)" method="post" id="contact-form">
+    <div>
+      <label for="name">Name</label>
+      <input type="text" id="c-name" value=""  placeholder="Name" name="name" onkeydown="return /[a-z ]/i.test(event.key)" />
+    </div>
 
+    <div>
+      <label for="email">Email</label>
+      <input type="email"  id="c-mail" placeholder="Company Email"  name="email" onkeydown="return /^[w-.+]+@[a-zA-Z0-9.-]+.[a-zA-z0-9]{2,4}$/i.test(event.key)" />
+    </div>
+  
+    <div>
+      <label for="phone">Phone</label>
+      <input type="text" id="phone" placeholder="Phone" name="tel" maxlength="10" onkeypress="if(this.value.length==10) return false;" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1')"/>
+    </div>
+
+    <div>
+      <label for="subject">Message</label>
+    <textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea>
+    </div>
+    <button class="btn btn-default unicod-btn-black form-btn" type="submit">Submit</button>
+  </form> -->
+            </div>
+        </div>
+    </div>
+</div>
+</section>
 <div class="home-slider-area">
 	<div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
 		<ol class="carousel-indicators">
@@ -217,7 +250,7 @@
 			</div>
 			<div class="col-md-7">
 				<div class="about-text">
-					<h2>Welcome to <span>Umaboy Group</span></h2>
+					<h2>Welcome to <span>Umiya Machine</span></h2>
 					<p>
 						We would like to introduce ourselves as one of the leading manufacturer of Quality Wood Working
 						Machineries Mr. Saurabh Patel and Mr. Jignesh Patel being the promoters of Umaboy were involved
@@ -273,7 +306,7 @@
 		<div class="row">
 			<div class="col-md-7">
 				<div class="about-text">
-					<h2>A NEW WAY OF <span>DISCOVERING UMABOY GROUP</span></h2>
+					<h2>A NEW WAY OF <span>DISCOVERING Umiya Machine</span></h2>
 					<p>
 						A new way to discover the company, the thought of the driver, the technological innovation that
 						gives prestige, the testimonies of those who choose to grow, the events that animate it and the
