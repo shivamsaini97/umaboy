@@ -40,11 +40,7 @@
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
           <a href="multi-boring-machine-umb-21.php">
-<<<<<<< HEAD
             <img class="multi-boring-machine-umb-21.php" src="images/MULTI-BORING_UMB_21.png" alt="">
-=======
-            <img class="" src="images/MULTI-BORING_UMB_21.png" alt="">
->>>>>>> 2a52ad762ec45772995681e62cbfb7a0d6a47ab8
           </a>
           <div class="blog-info">
             
