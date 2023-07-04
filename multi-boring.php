@@ -39,54 +39,54 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="">
+          <a href="multi-boring-machine-umb-21.php">
             <img class="" src="images/MULTI-BORING_UMB_21.png" alt="">
           </a>
           <div class="blog-info">
             
             <div class="content">
-              <a href=""><h3>Multi-Boring UMB 21</h3></a>
+              <a href="multi-boring-machine-umb-21.php"><h3>Multi-Boring UMB 21</h3></a>
               <p>Single Row Multi-boring Machine</p>
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="product-details.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="multi-boring-machine-umb-21.php">read more</a></button>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="">
+          <a href="multi-boring-machine-umb-42.php">
             <img src="images/Multi-Boring-42.png" alt="">
           </a>
           <div class="blog-info">
             
             <div class="content">
-              <a href=""><h3>Multi-Boring UMB 42</h3></a>
+              <a href="multi-boring-machine-umb-42.php"><h3>Multi-Boring UMB 42</h3></a>
 
               <p>Two Row Multi-boring Machine</p>
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="product-details.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="multi-boring-machine-umb-42.php">read more</a></button>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="">
+          <a href="multi-boring-machine-umb-63.php">
             <img src="images/Multi-Boring-63.png" alt="">
           </a>
           <div class="blog-info">
             
             <div class="content">
-              <a href=""><h3>Multi-Boring UMB 63</h3></a>
+              <a href="multi-boring-machine-umb-63.php"><h3>Multi-Boring UMB 63</h3></a>
 
               <p>Three Line Multi-boring Machine</p>
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="product-details.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="multi-boring-machine-umb-63.php">read more</a></button>
           </div>
         </div>
       </div>

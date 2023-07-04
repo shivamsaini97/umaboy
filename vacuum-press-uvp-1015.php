@@ -36,7 +36,7 @@
                   <h2>UCR 1325A</h2>
               </div> -->
               <div class="head-para">
-                  <p>Widely used for making pvc membrane foil door, kitchen shutters, embossing pvc foam sheet & laminate pressing</p>
+                  <p>Widely used for making pvc membrane foil door, kitchen shutters, <br /> embossing pvc foam sheet & laminate pressing</p>
               </div>
           </div>
       </div>
@@ -110,5 +110,5 @@
         </div>
       </div>
     </div>
-
+</div>
     <?php include('footer.php'); ?>

@@ -44,32 +44,32 @@ Vacuum Press
     
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="beam-saw-detail.html"><img src="images/VACUUM_PRESS_UVP_1015.png" alt=""></a>
+          <a href="vacuum-press-uvp-1015.php"><img src="images/VACUUM_PRESS_UVP_1015.png" alt=""></a>
           <div class="blog-info">
             
             <div class="content">
-              <a href="beam-saw-detail.html"><h3>Vacuum Press UVP 1015</h3></a>
+              <a href="vacuum-press-uvp-1015.php"><h3>Vacuum Press UVP 1015</h3></a>
         
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="beam-saw-detail.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="vacuum-press-uvp-1015.php">read more</a></button>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="">
+          <a href="vacuum-press-uvp-1010.php">
             <img src="images/VACUUM_PRESS_UVP_1010.png" alt="">
           </a>
           <div class="blog-info">
             
             <div class="content">
-              <a href=""><h3>Vacuum Press UVP 1010</h3></a>
+              <a href="vacuum-press-uvp-1010.php"><h3>Vacuum Press UVP 1010</h3></a>
               <div class="collor-bottom-two"></div>
             </div>
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="product-details.html">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="vacuum-press-uvp-1010.php">read more</a></button>
           </div>
         </div>
       </div>
