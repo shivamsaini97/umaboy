@@ -32,10 +32,11 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Zero Glue line
-solution is here</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Zero Glue line </span><span class="blue-color">solution is here</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
+
             <div class="paragraph">
                 <p>Expert 3800 is new and modified model in automatic edge banding. Expert 3800 is a range of edge benders featuring high resourcefulness in a large ground of applications, loaded with PUR Glue Jet technology to achieve high strength edge banding. Thanks to NC controlled system for automatic thickness setting of PVC edge banding. This machine provide invisible glue line and excellent finishing of edge banding.</p>
             </div>

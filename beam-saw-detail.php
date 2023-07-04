@@ -32,9 +32,10 @@
   <div class="home-aboutus-wrapper detail-page">
       <div class="container">
           <div class="row">
-              <div class="col-md-12 head">
-                  <h2>Maximum Production Output With Excellent <br /> Cutting Of Multiple Panels</h2>
-              </div>
+              <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Maximum Production Output With <br /> Excellent </span><span class="blue-color">Cutting Of Multiple Panels</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
+            </div>
               <!-- <div class="paragraph">
                   <p>Minimum trouble; maximum dependability comprehensive technical service</p>
               </div> -->

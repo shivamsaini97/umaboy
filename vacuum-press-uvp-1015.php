@@ -32,9 +32,10 @@
   <div class="home-aboutus-wrapper detail-page">
       <div class="container">
           <div class="row">
-              <!-- <div class="col-md-12 head">
-                  <h2>UCR 1325A</h2>
-              </div> -->
+          <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">UVP </span><span class="blue-color"> 1015</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
+            </div>
               <div class="head-para">
                   <p>Widely used for making pvc membrane foil door, kitchen shutters, <br /> embossing pvc foam sheet & laminate pressing</p>
               </div>

@@ -32,9 +32,10 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Cornor Rounding
-                with affordable prize</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Cornor Rounding
+                with </span><span class="blue-color"> affordable prize</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
                 <p>Expert 2600 Edge Banding Machine stands for Minimum Investment to get Maximum Output. The expert 2600 series is your guarantee for absolute quality, flexibility and productivity. The smart element of the machine is exclusive price with attractive result. Expert 2600 Edge banding machine has ergonomic structure and the fastest, shortest and easy to be used system and designed for PVC, Foil, Lining Melamine and ABS applications thickness of which is from 0.4 mm up to 3mm for workshops, factories and out sources with its highest quality</p>

@@ -32,9 +32,9 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <h2>Where Quality
-Defines in Automation.</h2>
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Where Quality Defines </span><span class="blue-color"> in Automation</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
                 <p>Expert 3600 is new and patented technology in automatic edge banding. Expert 3600 is a range of edge benders featuring high resourcefulness in a large ground of applications. Pioneering technological solutions, heavy duty production are combined to ensure a high quality finish and great consistency under a broad range of working conditions. The multi functional package provides a perfect appearance for all your normal edge banding processes.</p>
