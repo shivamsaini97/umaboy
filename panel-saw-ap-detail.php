@@ -35,14 +35,14 @@
             <!-- <div class="col-md-12 head">
                 <h2>Perfection With Every Cut !!</h2>
             </div> -->
-            <div class="paragraph">
+            <div class="head-para">
                 <p>This Machine is suitable to cut solid wood, plywood MDF board, particle board & various kind of laminated board. <br />Compact and rigid structure with high precision performance.</p>
             </div>
         </div>
     </div>
 </div>
 
-<div class="home-aboutus-wrapper detail-page">
+<div class="home-aboutus-wrapper detail-page" style="padding-top: 0;"> 
     <div class="container">
       <div class="row">
        <div class="col-md-6 text-center">

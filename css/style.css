@@ -889,7 +889,7 @@ ul.work li {
 }
 .about-text h2 span {
 	color: #ec2f34;
-	display: block;
+	/* display: block; */
 	font-weight: 700;
 }
 .about-text img {
@@ -2654,9 +2654,13 @@ i.fa.fa-angle-right,i.fa.fa-angle-left {
 .red-color {
 	color: #ec2f34;
 }
-.about-heading {
-	font-size: 40px;
-    text-align: center;
+.about-heading h2{
+	font-size: 42px;
+	text-align: center;
+	font-weight: 700;
+}
+.counter p {
+	font-weight: 600 !important;
 }
 @media (min-width: 992px) and (max-width: 1024px) {
 	/*** Top Wrapper ***/

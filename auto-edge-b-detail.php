@@ -43,7 +43,7 @@
     </div>
 </div>
 
-<div class="home-aboutus-wrapper detail-page">
+<div class="home-aboutus-wrapper detail-page" style="padding-top: 0;">
     <div class="container">
       <div class="row">
        <div class="col-md-6 text-center">

@@ -33,7 +33,7 @@
     <div class="container">
         <div class="row">
         <div class="col-md-12 about-heading">
-            <h2 style="margin-bottom: 60px;"><span class="red-color">Perfect appearance for your Customer Satisfaction
+            <h2 style=""><span class="red-color">Perfect appearance for your Customer Satisfaction
                 with </span><span class="blue-color"> with absolutely Affordable Technology</span></h2>
                 <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
@@ -44,7 +44,7 @@
     </div>
 </div>
 
-<div class="home-aboutus-wrapper detail-page">
+<div class="home-aboutus-wrapper detail-page" style="padding-top: 0;">
     <div class="container">
       <div class="row">
        <div class="col-md-6 text-center">

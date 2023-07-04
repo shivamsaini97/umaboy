@@ -8,26 +8,26 @@
                 <a class="close-form" href="javascript:void(0)">x</a>
                 <img src="images/modal.jpg" alt="" />
                 <!-- <form action="javascript:void(0)" method="post" id="contact-form">
-    <div>
-      <label for="name">Name</label>
-      <input type="text" id="c-name" value=""  placeholder="Name" name="name" onkeydown="return /[a-z ]/i.test(event.key)" />
-    </div>
+					<div>
+					<label for="name">Name</label>
+					<input type="text" id="c-name" value=""  placeholder="Name" name="name" onkeydown="return /[a-z ]/i.test(event.key)" />
+					</div>
 
-    <div>
-      <label for="email">Email</label>
-      <input type="email"  id="c-mail" placeholder="Company Email"  name="email" onkeydown="return /^[w-.+]+@[a-zA-Z0-9.-]+.[a-zA-z0-9]{2,4}$/i.test(event.key)" />
-    </div>
-  
-    <div>
-      <label for="phone">Phone</label>
-      <input type="text" id="phone" placeholder="Phone" name="tel" maxlength="10" onkeypress="if(this.value.length==10) return false;" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1')"/>
-    </div>
+					<div>
+					<label for="email">Email</label>
+					<input type="email"  id="c-mail" placeholder="Company Email"  name="email" onkeydown="return /^[w-.+]+@[a-zA-Z0-9.-]+.[a-zA-z0-9]{2,4}$/i.test(event.key)" />
+					</div>
+				
+					<div>
+					<label for="phone">Phone</label>
+					<input type="text" id="phone" placeholder="Phone" name="tel" maxlength="10" onkeypress="if(this.value.length==10) return false;" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1')"/>
+					</div>
 
-    <div>
-      <label for="subject">Message</label>
-    <textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea>
-    </div>
-    <button class="btn btn-default unicod-btn-black form-btn" type="submit">Submit</button>
+					<div>
+					<label for="subject">Message</label>
+					<textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea>
+					</div>
+					<button class="btn btn-default unicod-btn-black form-btn" type="submit">Submit</button>
   </form> -->
             </div>
         </div>
@@ -113,7 +113,7 @@
 		<div class="row">
 			<div class="col-md-6">
 				<div class="about-text">
-					<h2><span> ABOUT US</span></h2>
+					<h2><span> ABOUT </span> <span class="blue-color">Us</span></h2>
 				</div>
 				<p>
 					Umiya Machine is a marketing arm of Shree Umiya F Tech Machines based in Lucknow and looking after
@@ -121,6 +121,7 @@
 					Umiya Machines is dedicated to offer best products, best after sales Services, Providing Trained and
 					Certified Manpower to operate Hi Tech Machines, Providing training on Machines.
 				</p>
+				<a href="about.php" class="btn">Read More</a>
 			</div>
 			<div class="col-md-6 text-right">
 				<img src="images/about-us-hero.jpg" alt="" class="about-img" />
@@ -130,9 +131,9 @@
 </div>
 <div class="blog-wrapper home-page-product home-product">
 	<div class="container">
-		<div class="title">
-			<h2>Wood Working Machineries Product Range By</h2>
-		</div>
+	<div class="about-heading">
+					<h2><span class="red-color"> Wood Working Machineries  </span> <br><span class="blue-color">Product Range By</span></h2>
+				</div>
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
@@ -267,9 +268,9 @@
 <div class="counters">
 	<div class="container">
 		<div class="row">
-			<h2 class="text-center" style="color: #ec2f34; font-weight: 700; margin-bottom: 60px;">
-				Let The Numbers Speak For Us:
-			</h2>
+		<div class="about-heading">
+					<h2><span class="red-color"> Let The Numbers </span> <span class="blue-color"> Speak For Us</span></h2>
+				</div>
 			<div class="col-sm-3">
 				<div class="counter">
 					<div class="counter-icon-box"></div>
@@ -405,9 +406,9 @@
 <!-- review  -->
 <div class="testimonials-wrapper review">
 	<div class="container">
-		<div class="title">
-			<h2>Client Testimonials</h2>
-		</div>
+	<div class="about-heading">
+					<h2><span class="red-color">Client </span><span class="blue-color"> Testimonials</span></h2>
+				</div>
 		<div class="col-lg-8 col-lg-offset-2">
 			<div id="testimonial" class="owl-carousel owl-theme">
 				<div class="item">

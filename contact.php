@@ -33,7 +33,7 @@
           </div>
         </div>
         <div class="col-lg-6 col-sm-12">
-          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14005.58451515627!2d77.12375955099905!3d28.647855437383054!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d031cea395611%3A0x7aa7e4798623d1ae!2sKirti%20Nagar%20Industrial%20Area%2C%20Kirti%20Nagar%2C%20New%20Delhi%2C%20Delhi%2C%20India!5e0!3m2!1sen!2sus!4v1688039135266!5m2!1sen!2sus" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7118.4227789546885!2d80.99903464589806!3d26.86502417763704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be39ab5cd7e47%3A0x870f6dfd0896b36b!2sRohtas%20Plumeria!5e0!3m2!1sen!2sin!4v1688458291747!5m2!1sen!2sin" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
              
         </div>
           <div class=" col-lg-6 col-sm-12">

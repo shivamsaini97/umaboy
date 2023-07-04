@@ -27,11 +27,10 @@
 <div class="home-aboutus-wrapper">
   <div class="container">
     <div class="row">
-	    <div class="col-md-12">
-        <div class="about-text">
-          <h2><span> ABOUT US</span></h2>
- 
-        </div>
+	    <div class="col-md-12"  style="text-align: start;">
+      <div class="about-heading" style="text-align: start;">
+                    <h2  style="text-align: start;"><span class="red-color">About  </span><span class="blue-color">Us</span></h2>
+                  </div>
       </div>
     </div>
     <div class="row">
@@ -66,7 +65,10 @@
     <div class="row" >
       <div class="text-center about-text">
           <h2 style="font-size: 32px; margin-bottom: 20px;"><span>Project Finance under PMEGP – Offers UPTO 35% subsidy</span></h2>
-          <h3><b>Up Gradation-BUY BACK</b> </h3>
+          <div class="about-heading">
+                    <h3 ><span class="blue-color"><b>Up Gradation-BUY BACK</b></span></h3>
+                  </div>
+    
       </div>
       <div class="col-md-4 text-center" style="margin-top: 30px;"> 
           <div class="finance">
