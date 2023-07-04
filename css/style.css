@@ -3235,6 +3235,9 @@ td:not(:first-child) {
     list-style: disc;
     line-height: 3rem;
 }
+.footer-top-area li {
+	margin-bottom: 7px;
+}
 @media (min-width:992px){
 	.product-menu {
 		position: static !important;

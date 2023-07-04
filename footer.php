@@ -60,8 +60,8 @@
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
                             <li><a href="index.php">Home</a></li>
-                            <li><a href="about.php">About us</a></li>
-                            <li><a href="contact.php">Contact us</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="contact.php">Contact Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -73,12 +73,12 @@
                     </div>
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
-                            <li><a href="beam-saw.php">BEAM SAW</a></li>
-                            <li><a href="panel-saw.php">PANEL SAW</a></li>
-                            <li><a href="auto-edge-bander.php">AUTO EDGE BANDER</a></li>
-                            <li><a href="dust-collector.php">DUST COLLECTOR</a></li>
-                            <li><a href="manual-edge-bander.php">MANUAL EDGE BANDER</a></li>
-                            <li><a href="post-forming.php">POST FORMING</a></li>
+                            <li><a href="beam-saw.php">Bwam Saw</a></li>
+                            <li><a href="panel-saw.php">Panel Saw</a></li>
+                            <li><a href="auto-edge-bander.php">Auto Edge Bander</a></li>
+                            <li><a href="dust-collector.php">Dust Collector</a></li>
+                            <li><a href="manual-edge-bander.php">Manual Edge Bander</a></li>
+                            <li><a href="post-forming.php">Post Forming</a></li>
                         </ul>
                     </div>
                 </div>
@@ -103,14 +103,14 @@
                                 >
                             </li>
                             <li>
-                                <a href="javascript:void(0)"
-                                    ><li>
+                            
+                                    
+                                    
                                         <a href="javascript:void(0)"
                                             ><i class="fa fa-map-o"></i>Delhi : 7/26/1, Main Underpass Road
                                             , Industrial Area Kirti Nagar 110015, India.</a
                                         >
-                                    </li></a
-                                >
+                                   
                             </li>
                         </ul>
                     </div>
