@@ -74,7 +74,10 @@
                 </div>
                 <div>
                   <h4>Address:</h4>
-                <p>Delhi : 7/26/1, Main Underpass Road , Industrial Area Kirti Nagar 110015, India.</p>
+                <p>E 005 Rohtash Plumeria Homes
+                    besides Sumeet Building
+                    Vibhuti Khand, Gomatinagar
+                    Lucknow Uttar Pradesh 226010</p>
                 </div>
             
           </div>
