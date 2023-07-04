@@ -94,12 +94,12 @@
                     </div>
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
-                            <li><a href="push-button.html">Push Button</a></li>
-                            <li><a href="push-button.html">Indicator</a></li>
-                            <li><a href="push-button.html">Float Switch</a></li>
-                            <li><a href="push-button.html">Foot Switch</a></li>
-                            <li><a href="push-button.html">Remote Switch</a></li>
-                            <li><a href="push-button.html">Crane Switch</a></li>
+                            <li><a href="push-button.php">Push Button</a></li>
+                            <li><a href="push-button.php">Indicator</a></li>
+                            <li><a href="push-button.php">Float Switch</a></li>
+                            <li><a href="push-button.php">Foot Switch</a></li>
+                            <li><a href="push-button.php">Remote Switch</a></li>
+                            <li><a href="push-button.php">Crane Switch</a></li>
                         </ul>
                     </div>
                 </div>
@@ -111,9 +111,9 @@
                     </div>
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
-                            <li><a href="index-2.html">Home</a></li>
-                            <li><a href="about.html">About us</a></li>
-                            <li><a href="contact.html">Contact us</a></li>
+                            <li><a href="index-2.php">Home</a></li>
+                            <li><a href="about.php">About us</a></li>
+                            <li><a href="contact.php">Contact us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -176,5 +176,5 @@
 <script src="assets/jquery/jquery.magnific-popup.js"></script>
 <script src="js/custom.js"></script>
 </body>
-</html>
+</php>
 

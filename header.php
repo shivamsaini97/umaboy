@@ -1,6 +1,6 @@
 
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -15,7 +15,7 @@
 		<link href="assets/css/magnific-popup.css" type="text/css" rel="stylesheet" />
 		<link href="css/style.css" rel="stylesheet" />
 		<link href="assets/animate/animate.css" rel="stylesheet" />
-		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.html" />
+		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.php" />
 	</head>
   <style>
     body .home-product .single-blog-section {
@@ -89,17 +89,17 @@
 									<span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span>
 									<span class="icon-bar"></span> <span class="icon-bar"></span>
 								</button>
-								<a class="navbar-brand" href="index.html"
+								<a class="navbar-brand" href="index.php"
 									><img src="images/logo.png" alt="ElectricalPlus"
 								/></a>
 							</div>
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 								<ul class="mobile-menu nav navbar-nav">
-									<li class="active"><a href="index.html">Home</a></li>
-									<li><a href="about.html">About Us</a></li>
+									<li class="active"><a href="index.php">Home</a></li>
+									<li><a href="about.php">About Us</a></li>
 									<li class="product-menu">
 										<a
-											href="product.html"
+											href="product.php"
 											class="dropdown-toggle"
 											data-toggle="dropdown"
 											role="button"
@@ -112,40 +112,40 @@
 												<div class="col-lg-6">
 													<div class="sub-menu sub-menu-design">
 														<li class="nav__item">
-															<a href="beam-saw.html" class="nav__item-link">Beam Saw</a>
+															<a href="beam-saw.php" class="nav__item-link">Beam Saw</a>
 														</li>
 														<li class="nav__item">
-															<a href="panel-saw.html" class="nav__item-link"
+															<a href="panel-saw.php" class="nav__item-link"
 																>Panel Saw</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="auto-edge-bander.html" class="nav__item-link"
+															<a href="auto-edge-bander.php" class="nav__item-link"
 																>Auto Edge Bander
 															</a>
 														</li>
 														<li class="nav__item">
-															<a href="dust-collector.html" class="nav__item-link"
+															<a href="dust-collector.php" class="nav__item-link"
 																>Dust Collector</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="manual-edge-bander.html" class="nav__item-link"
+															<a href="manual-edge-bander.php" class="nav__item-link"
 																>Manual Edge Bander</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="post-forming.html" class="nav__item-link"
+															<a href="post-forming.php" class="nav__item-link"
 																>Post Forming</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="roller-press.html" class="nav__item-link"
+															<a href="roller-press.php" class="nav__item-link"
 																>Roller Press</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="multi-boring.html" class="nav__item-link"
+															<a href="multi-boring.php" class="nav__item-link"
 																>Multi Boring</a
 															>
 														</li>
@@ -154,42 +154,42 @@
 												<div class="col-lg-6">
 													<div class="sub-menu sub-menu-design">
 														<li class="nav__item">
-															<a href="cnc-machining-center.html" class="nav__item-link"
+															<a href="cnc-machining-center.php" class="nav__item-link"
 																>CNC Machining Center
 															</a>
 														</li>
 														<li class="nav__item">
-															<a href="cnc-routing.html" class="nav__item-link"
+															<a href="cnc-routing.php" class="nav__item-link"
 																>CNC Router</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="vacuum-press.html" class="nav__item-link"
+															<a href="vacuum-press.php" class="nav__item-link"
 																>Vacuum Press</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="four-side-moulder.html" class="nav__item-link"
+															<a href="four-side-moulder.php" class="nav__item-link"
 																>Four Side Moulder</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="wide-belt sander.html" class="nav__item-link"
+															<a href="wide-belt sander.php" class="nav__item-link"
 																>Wide Belt Sander</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="high-speed-router.html" class="nav__item-link"
+															<a href="high-speed-router.php" class="nav__item-link"
 																>High Speed Router</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="heavy-duty-feeder.html" class="nav__item-link"
+															<a href="heavy-duty-feeder.php" class="nav__item-link"
 																>High Speed Feeder</a
 															>
 														</li>
 														<li class="nav__item">
-															<a href="spindle-moulder.html" class="nav__item-link"
+															<a href="spindle-moulder.php" class="nav__item-link"
 																>Spindle Moulder</a
 															>
 														</li>
@@ -198,7 +198,7 @@
 											</div>
 										</ul>
 									</li>
-									<li><a href="contact.html">Contact Us</a></li>
+									<li><a href="contact.php">Contact Us</a></li>
 								</ul>
 							</div>
 						</nav>

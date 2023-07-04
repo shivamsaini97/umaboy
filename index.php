@@ -1,4 +1,5 @@
-<?php include('header.php'); ?>
+<?php include('header.php');
+ ?>
 
 <div class="home-slider-area">
 	<div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -18,7 +19,7 @@
 										<h2>The First Choice in Quality</h2>
 										<p style="font-size: 26px;">Good Working Machinery</p>
 
-										<a class="slide-btn" href="contact.html">Contact Us</a>
+										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
 							</div>
@@ -36,7 +37,7 @@
 									<div class="col-md-12">
 										<h2>Automatic Edge Bander</h2>
 										<p style="font-size: 26px;">Edge Banding, Where DNA turns into TECHNOLOGY</p>
-										<a class="slide-btn" href="contact.html">Contact Us</a>
+										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
 							</div>
@@ -56,7 +57,7 @@
 										<h2>Successfully Running Machines</h2>
 										<p style="font-size: 26px;">in Panel Processing industry in India</p>
 
-										<a class="slide-btn" href="contact.html">Contact Us</a>
+										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
 							</div>
@@ -102,90 +103,90 @@
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="beam-saw-auto-detail.html"><img src="images/saw-range2.png" alt="" /></a>
+					<a href="beam-saw-auto-detail.php"><img src="images/saw-range2.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="beam-saw-auto-detail.html"><h3>Beam Saw UBS 3200 Auto</h3></a>
+							<a href="beam-saw-auto-detail.php"><h3>Beam Saw UBS 3200 Auto</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
 						<button class="btn btn-default unicod-btn-black" type="submit">
-							<a href="beam-saw-auto-detail.html">read more</a>
+							<a href="beam-saw-auto-detail.php">read more</a>
 						</button>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="beam-saw-detail.html"><img src="images/beamsaw.png" alt="" /></a>
+					<a href="beam-saw-detail.php"><img src="images/beamsaw.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="beam-saw-detail.html"><h3>Beam Saw UBS 3200</h3></a>
+							<a href="beam-saw-detail.php"><h3>Beam Saw UBS 3200</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
 						<button class="btn btn-default unicod-btn-black" type="submit">
-							<a href="beam-saw-detail.html">read more</a>
+							<a href="beam-saw-detail.php">read more</a>
 						</button>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="panel-saw-a-detail.html"><img src="images/PANEL_SAW_UPS_3200A.png" alt="" /></a>
+					<a href="panel-saw-a-detail.php"><img src="images/PANEL_SAW_UPS_3200A.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="panel-saw-a-detail.html"><h3>Panel Saw UPS 3200A</h3></a>
+							<a href="panel-saw-a-detail.php"><h3>Panel Saw UPS 3200A</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
 						<button class="btn btn-default unicod-btn-black" type="submit">
-							<a href="panel-saw-a-detail.html">read more</a>
+							<a href="panel-saw-a-detail.php">read more</a>
 						</button>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="panel-saw-ap-detail.html"><img src="images/PANEL_SAW_UPS_3200A+.png" alt="" /></a>
+					<a href="panel-saw-ap-detail.php"><img src="images/PANEL_SAW_UPS_3200A+.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="panel-saw-ap-detail.html"><h3>Panel Saw UPS 3200A+</h3></a>
+							<a href="panel-saw-ap-detail.php"><h3>Panel Saw UPS 3200A+</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
 						<button class="btn btn-default unicod-btn-black" type="submit">
-							<a href="panel-saw-ap-detail.html">read more</a>
+							<a href="panel-saw-ap-detail.php">read more</a>
 						</button>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="auto-edge-b-detail.html"><img src="images/2300.png" alt="" /></a>
+					<a href="auto-edge-b-detail.php"><img src="images/2300.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="auto-edge-b-detail.html"><h3>Auto Edge Bander Expert 2300</h3></a>
+							<a href="auto-edge-b-detail.php"><h3>Auto Edge Bander Expert 2300</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
 						<button class="btn btn-default unicod-btn-black" type="submit">
-							<a href="auto-edge-b-detail.html">read more</a>
+							<a href="auto-edge-b-detail.php">read more</a>
 						</button>
 					</div>
 				</div>
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="auto-edge-ban-detail.html"><img src="images/2600.png" alt="" /></a>
+					<a href="auto-edge-b-detail-26.php"><img src="images/2600.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="auto-edge-ban-detail.html"><h3>Auto Edge Bander Expert 2600</h3></a>
+							<a href="auto-edge-b-detail-26.php"><h3>Auto Edge Bander Expert 2600</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
 						<button class="btn btn-default unicod-btn-black" type="submit">
-							<a href="auto-edge-ban-detail.html">read more</a>
+							<a href="auto-edge-b-detail-26.php">read more</a>
 						</button>
 					</div>
 				</div>
@@ -200,7 +201,7 @@
 			<div class="col-sm-12">
 				<h3>Do you need any help for Products?</h3>
 
-				<a href="contact.html" class="btn">Contact Us</a>
+				<a href="contact.php" class="btn">Contact Us</a>
 			</div>
 		</div>
 	</div>
@@ -223,7 +224,7 @@
 						in the Wood Working Machineries since 1985. The company has been a legendary manufacturer and
 						trader of high quality Wood Working Machines like...<br />
 					</p>
-					<a href="about.html" class="btn">Read More</a>
+					<a href="about.php" class="btn">Read More</a>
 				</div>
 			</div>
 		</div>
@@ -281,7 +282,7 @@
 						testimonies of those who choose to grow, the events that animate it and the stories of those who
 						make it every day with competence and dedication.
 					</p>
-					<a href="about.html" class="btn">Read More</a>
+					<a href="about.php" class="btn">Read More</a>
 				</div>
 			</div>
 			<div class="col-md-5">
