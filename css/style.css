@@ -1196,13 +1196,10 @@ ul.about-list a {
 .close-form:hover {
 	color: #105ea9;
 }
-.form-contact {
+.about-list {
 	background: #fff;
 	padding: 0;
 	border-radius: 10px;
-	overflow-y: auto;
-	overflow-x: hidden;
-	height: 600px;
 }
 .testimonials-wrapper h2 {
 	color: #fff;
@@ -1297,13 +1294,8 @@ body .review .owl-carousel .owl-item .review-img {
 }
 .blog-wrapper .single-blog-section img {
 	width: 100%;
-<<<<<<< HEAD
         object-fit: contain;
 		min-height: 230px;
-=======
-	object-fit: contain;
-	min-height: 200px;
->>>>>>> 9e46dc56ac5feee89c051ec9b0d859f8d0c5458b
 }
 .blog-wrapper .single-blog-section {
 	text-align: center;
@@ -2569,6 +2561,9 @@ span.email-notes {
 	height: 40px;
 	line-height: 40px;
 	text-align: center;
+	
+	padding: 12px;
+
 	width: 40px;
 }
 .footer-social-menu li a:hover,
@@ -2638,7 +2633,9 @@ span.email-notes {
 	text-align: center;
 	color: #b2b2b2;
 }
-
+i.fa.fa-angle-right,i.fa.fa-angle-left {
+	margin-top: 21px;
+}
 /* product detail  */
 .product-detail-page .about-text img {
 	width: 100%;
@@ -2648,8 +2645,29 @@ span.email-notes {
 24. Media Quires 
 ================================================
 */
+.form-contact {
+	background: #fff;
+	padding: 0;
+	border-radius: 10px;
+
+}
+.red-color {
+	color: #ec2f34;
+}
+.about-heading {
+	font-size: 40px;
+    text-align: center;
+}
 @media (min-width: 992px) and (max-width: 1024px) {
 	/*** Top Wrapper ***/
+	.form-contact {
+		background: #fff;
+		padding: 0;
+		border-radius: 10px;
+		overflow-y: auto;
+		overflow-x: hidden;
+		height: 600px;
+	}
 	.top-header-add li {
 		margin-right: 15px;
 	}
@@ -2680,6 +2698,14 @@ span.email-notes {
 }
 @media (min-width: 768px) and (max-width: 991px) {
 	/*** Top Wrapper ***/
+	.form-contact {
+		background: #fff;
+		padding: 0;
+		border-radius: 10px;
+		overflow-y: auto;
+		overflow-x: hidden;
+		height: 600px;
+	}
 	body .d-flex1 {
 		justify-content: start;
 	}
@@ -2763,6 +2789,11 @@ span.email-notes {
 	}
 }
 @media (max-width: 767px) {
+	.form-contact {
+		overflow-y: auto;
+		overflow-x: hidden;
+		height: 500px;
+	}
 	.about-us-section img.about-img {
 		width: 100%;
 	}
