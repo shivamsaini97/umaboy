@@ -12,7 +12,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <h2 style="text-transform:capitalize">Auto Edge Bander Expert 2600</span></h2>
+                    <h2 style="text-transform:capitalize">Auto Edge Bander Expert 4600 Wood</span></h2>
                    
                    <!-- <a class="slide-btn" href="javascript:void(0)">Contact Us</a>--></div>
                 </div>
@@ -33,11 +33,9 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 head">
-                <h2>Cornor Rounding
-                with affordable prize</h2>
+                <h2>Technology In Form Of Wooden Strip Is Here.</h2>
             </div>
             <div class="paragraph">
-                <p>Expert 2600 Edge Banding Machine stands for Minimum Investment to get Maximum Output. The expert 2600 series is your guarantee for absolute quality, flexibility and productivity. The smart element of the machine is exclusive price with attractive result. Expert 2600 Edge banding machine has ergonomic structure and the fastest, shortest and easy to be used system and designed for PVC, Foil, Lining Melamine and ABS applications thickness of which is from 0.4 mm up to 3mm for workshops, factories and out sources with its highest quality</p>
             </div>
         </div>
     </div>
@@ -54,22 +52,17 @@
         </div>
         <div class="col-md-6">
           <div class="about-text">
-          <h3>Auto Edge Bander Expert 2600</h3><hr/>
+          <h3>Auto Edge Bander Expert 4600 Wood</h3><hr/>
             
             <table>
     <tr>
       <th>MODEL</th>
-      <th>EXPERT 2600</th>
+      <th>EXPERT 4600 Wood</th>
       
     </tr>
     <tr>
       <td><b>Electric level</b> </td>
       <td>415-220/50 hz</td>
-      
-    </tr>
-    <tr>
-      <td><b>Nominal current</b> </td>
-      <td>18 A</td>
       
     </tr>
     <tr>
@@ -84,12 +77,12 @@
     </tr>
     <tr>
       <td><b>Speed  </b> </td>
-      <td>12 m/min</td>
+      <td>15 m/min</td>
       
     </tr>
     <tr>
       <td><b>Total electrical power</b></td>
-      <td>4kw</td>
+      <td>11Kw-11</td>
       
     </tr>
     <tr>
@@ -99,32 +92,47 @@
     </tr>
     <tr>
       <td><b>Total air usage</b></td>
-      <td>160 Lt/min.</td>
+      <td>180 Lt/min.</td>
+      
+    </tr>
+    <tr>
+      <td><b>Front milling</b></td>
+      <td>1x1.5kw/12000rpm-1x1.5kw/12000rpm</td>
+      
+    </tr>
+    <tr>
+      <td><b>Cutting</b></td>
+      <td>2x0.75kw</td>
+      
+    </tr>
+    <tr>
+      <td><b>Trimming	</b></td>
+      <td>4x0.75kw/18000rpm</td>
       
     </tr>
     <tr>
       <td><b>Buffing motor</b></td>
       <td>2x0.18kw/1310rpm</td>
-      
     </tr>
     <tr>
       <td><b>Glue boiler engine</b></td>
-      <td>0.18kwx900rpm</td>
+      <td>0.18kwx/850rpm</td>
+      
+    </tr>
+
+    <tr>
+      <td><b>PVC step engine</b></td>
+      <td>0.4kw</td>
       
     </tr>
     <tr>
-      <td><b>Trimming</b></td>
-      <td>2x0.75kw/18000rpm</td>
-      
-    </tr>
-    <tr>
-      <td><b>Pallet Motors</b></td>
-      <td>1.1kw/900rpm</td>
+      <td><b>Double pallet system</b></td>
+      <td>2x0.75kw/1404rpm</td>
       
     </tr>
     <tr>
       <td><b>Machine length</b></td>
-      <td>2500mm</td>
+      <td>4600mm</td>
       
     </tr>
     <tr>

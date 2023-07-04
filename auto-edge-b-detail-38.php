@@ -12,7 +12,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <h2 style="text-transform:capitalize">Auto Edge Bander Expert 2600</span></h2>
+                    <h2 style="text-transform:capitalize">Auto Edge Bander Expert 3800</span></h2>
                    
                    <!-- <a class="slide-btn" href="javascript:void(0)">Contact Us</a>--></div>
                 </div>
@@ -33,11 +33,11 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 head">
-                <h2>Cornor Rounding
-                with affordable prize</h2>
+                <h2>Zero Glue line
+solution is here</h2>
             </div>
             <div class="paragraph">
-                <p>Expert 2600 Edge Banding Machine stands for Minimum Investment to get Maximum Output. The expert 2600 series is your guarantee for absolute quality, flexibility and productivity. The smart element of the machine is exclusive price with attractive result. Expert 2600 Edge banding machine has ergonomic structure and the fastest, shortest and easy to be used system and designed for PVC, Foil, Lining Melamine and ABS applications thickness of which is from 0.4 mm up to 3mm for workshops, factories and out sources with its highest quality</p>
+                <p>Expert 3800 is new and modified model in automatic edge banding. Expert 3800 is a range of edge benders featuring high resourcefulness in a large ground of applications, loaded with PUR Glue Jet technology to achieve high strength edge banding. Thanks to NC controlled system for automatic thickness setting of PVC edge banding. This machine provide invisible glue line and excellent finishing of edge banding.</p>
             </div>
         </div>
     </div>
@@ -49,17 +49,17 @@
        <div class="col-md-6 text-center">
           <div class="about-text">
           
-          <img src="images/2600.png" alt=""> </div>
+          <img src="images/3800.png" alt=""> </div>
       <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
         </div>
         <div class="col-md-6">
           <div class="about-text">
-          <h3>Auto Edge Bander Expert 2600</h3><hr/>
+          <h3>Auto Edge Bander Expert 3800</h3><hr/>
             
             <table>
     <tr>
       <th>MODEL</th>
-      <th>EXPERT 2600</th>
+      <th>EXPERT 3800</th>
       
     </tr>
     <tr>
@@ -68,13 +68,8 @@
       
     </tr>
     <tr>
-      <td><b>Nominal current</b> </td>
-      <td>18 A</td>
-      
-    </tr>
-    <tr>
       <td><b>Edge material thickness</b> </td>
-      <td>0.4-2mm</td>
+      <td>0, 4-3mm</td>
       
     </tr>
     <tr>
@@ -84,12 +79,12 @@
     </tr>
     <tr>
       <td><b>Speed  </b> </td>
-      <td>12 m/min</td>
+      <td>15 m/min</td>
       
     </tr>
     <tr>
       <td><b>Total electrical power</b></td>
-      <td>4kw</td>
+      <td>11kw-11</td>
       
     </tr>
     <tr>
@@ -103,13 +98,9 @@
       
     </tr>
     <tr>
-      <td><b>Buffing motor</b></td>
-      <td>2x0.18kw/1310rpm</td>
-      
-    </tr>
-    <tr>
-      <td><b>Glue boiler engine</b></td>
-      <td>0.18kwx900rpm</td>
+      <td><b>Front milling</b></td>
+      <td>1x1.5kw/12000rpm<br>
+1x1.5kw/12000rpm</td>
       
     </tr>
     <tr>
@@ -118,13 +109,28 @@
       
     </tr>
     <tr>
-      <td><b>Pallet Motors</b></td>
-      <td>1.1kw/900rpm</td>
+      <td><b>Buffing motor</b></td>
+      <td>2x0.18kw/1310rpm</td>
+      
+    </tr>
+    <tr>
+      <td><b>Glue boiler engine</b></td>
+      <td>0.18kw/850rpm</td>
+      
+    </tr>
+    <tr>
+      <td><b>PVC step engine</b></td>
+      <td>0.4kw</td>
+      
+    </tr>
+    <tr>
+      <td><b>Double pallet system</b></td>
+      <td>2x0.75kw/1404rpm</td>
       
     </tr>
     <tr>
       <td><b>Machine length</b></td>
-      <td>2500mm</td>
+      <td>3600mm</td>
       
     </tr>
     <tr>

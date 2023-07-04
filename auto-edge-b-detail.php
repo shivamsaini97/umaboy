@@ -49,12 +49,12 @@
        <div class="col-md-6 text-center">
           <div class="about-text">
           
-          <img src="images/BEAM_SAW_UBS_3200_AUTO.png" alt=""> </div>
+          <img src="images/2300.png" alt=""> </div>
       <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
         </div>
         <div class="col-md-6">
           <div class="about-text">
-          <h3>Computer Controlled Beam Saw Machine</h3><hr/>
+          <h3>Auto Edge Bander Expert 2300</h3><hr/>
             
             <table>
     <tr>
@@ -63,83 +63,78 @@
       
     </tr>
     <tr>
-      <td><b>Saw cutting length</b> </td>
-      <td>3280 mm</td>
+      <td><b>Electric leve</b> </td>
+      <td>415-220/50 hz</td>
       
     </tr>
     <tr>
-      <td><b>Saw cutting thickness</b> </td>
-      <td>90mm</td>
+      <td><b>Nominal current</b> </td>
+      <td>18 A</td>
       
     </tr>
     <tr>
-      <td><b>Diameter of main saw blade</b> </td>
-      <td>Θ 400mm</td>
+      <td><b>Edge material thickness</b> </td>
+      <td>0.4-2mm</td>
       
     </tr>
     <tr>
-      <td><b>Diameter of main saw blade shaft</b> </td>
-      <td>Θ 60mm</td>
+      <td><b>Board thickness</b> </td>
+      <td>10-50mm</td>
       
     </tr>
     <tr>
-      <td><b>Revolving speed of main saw blade</b></td>
-      <td>3930 r/min</td>
+      <td><b>Speed</b></td>
+      <td>12 m/min</td>
       
     </tr>
     <tr>
-      <td><b>Diameter of scoring saw blade</b></td>
-      <td>Θ 180mm</td>
+      <td><b>Total electrical power</b></td>
+      <td>4kw</td>
       
     </tr>
     <tr>
-      <td><b>Revolving speed of scoring saw blade</b></td>
-      <td>6500r/min</td>
+      <td><b>Total air pressure</b></td>
+      <td>6 Bar</td>
       
     </tr>
     <tr>
-      <td><b>Advance speed of saw base (stepless)</b></td>
-      <td>9-50 m/min</td>
+      <td><b>Total air usage</b></td>
+      <td>160 Lt/min.</td>
       
     </tr>
     <tr>
-      <td><b>Back speed of saw base</b></td>
-      <td>100 m/min</td>
+      <td><b>Buffing motor</b></td>
+      <td>2x0.18kw/1310rpm</td>
       
     </tr>
     <tr>
-      <td><b>Drive motor of saw base</b></td>
-      <td>1 kw</td>
+      <td><b>Glue boiler engine</b></td>
+      <td>0.18kwx900rpm</td>
       
     </tr>
     <tr>
-      <td><b>Drive motor of main saw blade</b></td>
-      <td>15 kw</td>
+      <td><b>Trimming</b></td>
+      <td>2x0.75kw/18000rpm</td>
       
     </tr>
     <tr>
-      <td><b>Automatic feeding motor</b></td>
-      <td>1.5 kw</td>
+      <td><b>Pallet Motors</b></td>
+      <td>1.1kw/900rpm</td>
       
     </tr>
     <tr>
-      <td><b>Automatic feeding speed</b></td>
-      <td>50m/min</td>
+      <td><b>Machine length</b></td>
+      <td>2300mm</td>
       
     </tr>
     <tr>
-      <td><b>Operating pressure</b></td>
-      <td>5 ~ 8 kg/cm</td>
+      <td><b>Machine width</b></td>
+      <td>800mm</td>
       
     </tr>
     <tr>
-      <td><b>Net weight of device</b></td>
-      <td>62420 kg</td>
-      
-    </tr>
-    <tr>
-      <td><b>External dimensions (l. x W x H)</b></td>
-      <td>5830 x 6630 x 1810 mm</td>
+      <td><b>Machine height</b></td>
+      <td>1500mm</td>
       
     </tr>
   </table>
