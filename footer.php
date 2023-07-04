@@ -10,44 +10,10 @@
                     </div>
                     <div class="footer-widget-content">
                         <p>
-                            Established in 1960, headquartered at place. the dash company was aimed to
-                            provide the best electrical panel accessories that are known for its quality and
-                            robustness.
+                            Umiya Machine is a marketing arm of Shree Umiya F Tech Machines based in Lucknow and looking after Uttar Pradesh, Bihar, Jharkhand and Uttarakhand.
                         </p>
 
-                        <ul class="footer-social-menu list-inline">
-                            <li>
-                                <a
-                                    href="https://www.facebook.com/umaboymachine/?eid=ARDIKpwL-ES7OwzuQb_rqkFOAFEykCWqOvniDAFkP2CZrK7E7rrx8uoFORJmpQVXSq8-KZZJing-6Sv6"
-                                    target="_blank"
-                                    ><i class="fa fa-facebook"></i
-                                ></a>
-                            </li>
-                            <li>
-                                <a href="https://twitter.com/UmaboyWood" target="_blank"
-                                    ><i class="fa fa-twitter"></i
-                                ></a>
-                            </li>
-                            <li>
-                                <a
-                                    href="https://www.instagram.com/umaboy_wood_working_machine/"
-                                    target="_blank"
-                                    ><i class="fa fa-instagram"></i
-                                ></a>
-                            </li>
-                            <li>
-                                <a
-                                    href="https://www.youtube.com/channel/UCRU8znbNTof8CRGg73SlM5w"
-                                    target="_blank"
-                                    ><i class="fa fa-youtube-play"></i
-                                ></a>
-                            </li>
-                            <li>
-                                <a href="https://plus.google.com/109015375265611429326" target="_blank"
-                                    ><i class="fa fa-google-plus"></i
-                                ></a>
-                            </li>
-                        </ul>
+                        
                     </div>
                 </div>
             </div>
@@ -107,10 +73,47 @@
                                     
                                     
                                         <a href="javascript:void(0)"
-                                            ><i class="fa fa-map-o"></i>Delhi : 7/26/1, Main Underpass Road
-                                            , Industrial Area Kirti Nagar 110015, India.</a
+                                            ><i class="fa fa-map-o"></i>E 005 Rohtash Plumeria Homes besides Sumeet Building Vibhuti Khand, Gomatinagar Lucknow Uttar Pradesh 226010</a
                                         >
                                    
+                            </li>
+                        </ul>
+                        <br>
+                        <div class="footer-widget-heading">
+                        <h3>Follow Us</h3>
+                    </div>
+                    <br>
+                        <ul class="footer-social-menu list-inline">
+                            <li>
+                                <a
+                                    href="https://www.facebook.com/umaboymachine/?eid=ARDIKpwL-ES7OwzuQb_rqkFOAFEykCWqOvniDAFkP2CZrK7E7rrx8uoFORJmpQVXSq8-KZZJing-6Sv6"
+                                    target="_blank"
+                                    ><i class="fa fa-facebook"></i
+                                ></a>
+                            </li>
+                            <li>
+                                <a href="https://twitter.com/UmaboyWood" target="_blank"
+                                    ><i class="fa fa-twitter"></i
+                                ></a>
+                            </li>
+                            <li>
+                                <a
+                                    href="https://www.instagram.com/umaboy_wood_working_machine/"
+                                    target="_blank"
+                                    ><i class="fa fa-instagram"></i
+                                ></a>
+                            </li>
+                            <li>
+                                <a
+                                    href="https://www.youtube.com/channel/UCRU8znbNTof8CRGg73SlM5w"
+                                    target="_blank"
+                                    ><i class="fa fa-youtube-play"></i
+                                ></a>
+                            </li>
+                            <li>
+                                <a href="https://plus.google.com/109015375265611429326" target="_blank"
+                                    ><i class="fa fa-google-plus"></i
+                                ></a>
                             </li>
                         </ul>
                     </div>

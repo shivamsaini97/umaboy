@@ -33,9 +33,14 @@
     <div class="container">
         <div class="row">
             <div class="col-md-12 head">
-                <h2>High Productivity And High Product Quality And Accurate Setup</h2>
+      
+            <h2 style="">
+              <span class="red-color">High Productivity And High Product </span>
+                <span class="blue-color">Quality And Accurate Setup</span>
+              </h2>
+            
             </div>
-            <div class="paragraph">
+            <div class="paragraph" style="padding-top:0 ;">
                 <p>Minimum trouble; maximum dependability comprehensive technical service</p>
             </div>
         </div>
@@ -51,7 +56,7 @@
     </div>
 </div>
 
-<div class="home-aboutus-wrapper detail-page">
+<div class="home-aboutus-wrapper detail-page" style="padding-top:0 ;">
   <div class="container">
     <div class="row">
       <div class="col-md-12">

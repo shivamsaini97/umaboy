@@ -33,7 +33,7 @@
       <div class="container">
           <div class="row">
           <div class="col-md-12 about-heading">
-            <h2 style="margin-bottom: 60px;"><span class="red-color">UVP </span><span class="blue-color"> 1015</span></h2>
+            <h2 style=""><span class="red-color">UVP </span><span class="blue-color"> 1015</span></h2>
                 <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
               <div class="paragraph">
@@ -43,7 +43,7 @@
       </div>
   </div>
 
-  <div class="home-aboutus-wrapper detail-page">
+  <div class="home-aboutus-wrapper detail-page" style="padding-top: 0;">
       <div class="container">
         <div class="row">
         <div class="col-md-12 text-center">
