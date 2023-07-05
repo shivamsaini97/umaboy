@@ -39,33 +39,33 @@
     <div class="row">
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="beam-saw-auto-detail.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1001.png" alt=""></a>
+          <a href="hydraulic-cold-press-ucp-1001.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1001.png" alt=""></a>
           <div class="blog-info">
             
             <div class="content">
-              <a href="beam-saw-auto-detail.php"><h3>Hydraulic Cold Press UCP 1001</h3></a>
+              <a href="hydraulic-cold-press-ucp-1001.php"><h3>Hydraulic Cold Press UCP 1001</h3></a>
               <p>2 Cylinder</p>
               <div class="collor-bottom-two"></div>
             </div> 
           
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="beam-saw-auto-detail.php">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="hydraulic-cold-press-ucp-1001.php">read more</a></button>
           </div>
         </div>
       </div>
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="beam-saw-detail.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1004.png" alt=""></a>
+          <a href="hydraulic-cold-press-ucp-1004.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1004.png" alt=""></a>
           <div class="blog-info">
             <div class="content">
-              <a href="beam-saw-detail.php"><h3>Hydraulic Cold Press UCP 1004</h3></a>
+              <a href="hydraulic-cold-press-ucp-1004.php"><h3>Hydraulic Cold Press UCP 1004</h3></a>
               <p>4 Cylinder</p>
               <div class="collor-bottom-two"></div>
             </div>
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="beam-saw-detail.php">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="hydraulic-cold-press-ucp-1004.php">read more</a></button>
           </div>
         </div>
       </div>
-      <div class="col-lg-4 col-md-6 col-sm-6">
+      <!-- <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
           <a href="beam-saw-detail.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1005.png" alt=""></a>
           <div class="blog-info">
@@ -77,17 +77,17 @@
             <button class="btn btn-default unicod-btn-black" type="submit"><a href="beam-saw-detail.php">read more</a></button>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
-          <a href="beam-saw-detail.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1004.png" alt=""></a>
+          <a href="hydraulic-cold-press-ucp-1003.php"><img src="images/HYDRAULIC_COLD_PRESS_UCP_1003.png" alt=""></a>
           <div class="blog-info">
             <div class="content">
-              <a href="beam-saw-detail.php"><h3>Hydraulic Cold Press UCP 1004</h3></a>
-              <p>4 Cylinder</p>
+              <a href="hydraulic-cold-press-ucp-1003.php"><h3>Hydraulic Cold Press UCP 1003</h3></a>
+              <p>6 Cylinder Three Platen Cold Press</p>
               <div class="collor-bottom-two"></div>
             </div>
-            <button class="btn btn-default unicod-btn-black" type="submit"><a href="beam-saw-detail.php">read more</a></button>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="hydraulic-cold-press-ucp-1003.php">read more</a></button>
           </div>
         </div>
       </div>
