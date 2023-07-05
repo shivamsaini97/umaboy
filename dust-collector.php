@@ -39,7 +39,7 @@
 		
 		      <img src="images/DUST_COLLECTOR__UD001_002_003 (1).png" alt=""> 
         </div>
-        <a href="contact.html" class="btn">Contact Us</a>
+        <a href="contact.php" class="btn">Contact Us</a>
 <a href="tel:+919723468755" class="btn">Call Now</a>
 
       </div>
