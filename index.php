@@ -282,21 +282,21 @@
 				<div class="counter">
 					<div class="counter-icon-box"></div>
 					<div class="number animateNumber" data-num="08"><span>+</span></div>
-					<p>DEMO CENTERS IN UP & BIHAR</p>
+					<p>Demo centers in UP & Bihar</p>
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="counter">
 					<div class="counter-icon-box"></div>
 					<div class="number animateNumber" data-num="08"><span>+</span></div>
-					<p>SERVICE CENTERS IN UP & BIHAR</p>
+					<p>Service centers in Up & Bihar</p>
 				</div>
 			</div>
 			<div class="col-sm-3">
 				<div class="counter">
 					<div class="counter-icon-box"></div>
 					<div class="number animateNumber" data-num="06"><span>+</span></div>
-					<p>MOBILE SERVICE UNIT IN UP & BIHAR</p>
+					<p>Mobile service unit in UP & Bihar</p>
 				</div>
 			</div>
 		</div>

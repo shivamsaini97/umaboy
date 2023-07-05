@@ -91,6 +91,19 @@
           </div>
         </div>
       </div>
+      <div class="col-lg-4 col-md-6 col-sm-6">
+        <div class="single-blog-section"> 
+          <a href="hydraulic-hot-press.php"><img src="images/HYDRAULIC_HOT-COLD_PRESS_UHP_1002.png" alt=""></a>
+          <div class="blog-info">
+            <div class="content">
+              <a href="hydraulic-hot-press.php"><h3>Hydraulic Hot-Cold Press UHP 1002</h3></a>
+              <!-- <p>6 Cylinder Three Platen Cold Press</p> -->
+              <div class="collor-bottom-two"></div>
+            </div>
+            <button class="btn btn-default unicod-btn-black" type="submit"><a href="hydraulic-hot-press.php">read more</a></button>
+          </div>
+        </div>
+      </div>
       
     </div>
   </div>
