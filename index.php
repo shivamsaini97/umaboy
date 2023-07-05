@@ -50,9 +50,9 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-8">
 										<h2>Record 35 years</h2>
-										<p style="font-size: 26px;">Only Machines indigenously developed and manufactured in INDIA 
+										<p style="font-size: 18px;">Only Machines indigenously developed and manufactured in INDIA 
 											More than 23 Patents to prove its Technological Marvel
 											Long Lasting performance, Scope of Up gradation.
 											Easily available Spares even after 10 years in service
@@ -73,11 +73,11 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-8">
 										<h2>Now at multiple place in Uttar Pradesh and Bihar</h2>
-										<p style="font-size: 26px;">Demo Centre – All machines on display</p>
-										<p style="font-size: 26px;"> Service Centre – 24 hrs help line for online and onsite service</p>
-										<p style="font-size: 26px;"> Operators Training Centre – for providing Skilled, Trained and Certified operators</p>
+										<p style="font-size: 18px;">Demo Centre – All machines on display</p>
+										<p style="font-size: 18px;"> Service Centre – 24 hrs help line for online and onsite service</p>
+										<p style="font-size: 18px;"> Operators Training Centre – for providing Skilled, Trained and Certified operators</p>
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
@@ -93,10 +93,10 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-8">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
 										<h2>Opraters Training Center – (Training & Placement)</h2>
-										<p style="font-size: 26px;">For the first time in Uttar Pradesh and in Bihar Launching</p>
+										<p style="font-size: 18px;">For the first time in Uttar Pradesh and in Bihar Launching</p>
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
@@ -112,10 +112,10 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-8">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
 										<h2>Now Avail</h2>
-										<p style="font-size: 26px;">Govt Subsidy under various schemes of State & Central Govt Loans from Nationalized Banks </p>
+										<p style="font-size: 18px;">Govt Subsidy under various schemes of State & Central Govt Loans from Nationalized Banks </p>
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
@@ -126,15 +126,15 @@
 				</div>
 			</div>
 			<div class="item">
-				<div class="single-slide-item slide-5">
+				<div class="single-slide-item slide-7">
 					<div class="single-slide-item-table">
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-12">
+									<div class="col-md-8">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
 										<h2>Rental Services</h2>
-										<p style="font-size: 26px;">You can take any machines which will be available on monthly rentals.</p>
+										<p style="font-size: 18px;">You can take any machines which will be available on monthly rentals.</p>
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
@@ -145,12 +145,12 @@
 				</div>
 			</div>
 
-			<a class="left welcome-control" href="#welcome-slide-carousel" role="button" data-slide="prev"
+			<!-- <a class="left welcome-control" href="#welcome-slide-carousel" role="button" data-slide="prev"
 				><i class="fa fa-angle-left"></i
 			></a>
 			<a class="right welcome-control" href="#welcome-slide-carousel" role="button" data-slide="next"
 				><i class="fa fa-angle-right"></i
-			></a>
+			></a> -->
 		</div>
 	</div>
 </div>

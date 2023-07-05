@@ -73,7 +73,7 @@
       <div class="col-md-4 text-center" style="margin-top: 30px;"> 
           <div class="finance">
             
-            <img src="images/rental.jpg" alt="" style="margin-bottom: 20px;">
+            <img src="images/HYDRAULIC_HOT-COLD_PRESS_UHP_1002.png" alt="" style="margin-bottom: 20px;">
             <div class="fia">
               <h3><b>Rentals</b> </h3>
             <p>Umiya Machines is all set to launch its Rental services, In case if anyone wanted a machines for a short term use can avail our unique services of Machines available on rents.</p>

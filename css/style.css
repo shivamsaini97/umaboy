@@ -478,7 +478,7 @@ ul.nav.navbar-nav li:hover ul {
 }
 .single-slide-item-table-cell {
 	display: table-cell;
-	text-align: center;
+	/* text-align: center; */
 	vertical-align: middle;
 }
 .single-slide-item-table {
@@ -566,13 +566,25 @@ a.slide-btn:active::before {
 	background-position: center;
 }
 .slide-2 {
-	background: url(../images/banner2.jpg);
+	background: url(../images/banner-2.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
 .slide-3 {
-	background: url(../images/banner3.jpg);
+	background: url(../images/banner-3.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.slide-4 {
+	background: url(../images/banner-4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.slide-7 {
+	background: url(../images/banner-5.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -582,14 +594,14 @@ a.slide-btn:active::before {
 	z-index: 1;
 }
 .single-slide-item:after {
-	background: rgba(0, 0, 0, 0.7);
+	/* background: rgba(0, 0, 0, 0.7);
 	content: "";
 	height: 100%;
 	left: 0;
 	position: absolute;
 	top: 0;
 	width: 100%;
-	z-index: -1;
+	z-index: -1; */
 }
 .carousel-fade .carousel-inner .item {
 	-webkit-transition-property: opacity;
@@ -3064,7 +3076,6 @@ textarea {
 	height: 400px;
 }
 
-.slide-4,
 .text-slide {
 	background: url(../images/abbanner.jpg);
 	background-size: cover;
@@ -3275,7 +3286,7 @@ td:not(:first-child) {
 }
 .home-slider .single-slide-item,
 .home-slider .single-slide-item-table {
-    height: 600px;
+    height: 730px;
 }
 a.left.welcome-control:focus,
 a.right.welcome-control:focus{
