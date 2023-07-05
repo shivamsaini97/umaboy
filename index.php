@@ -34,12 +34,14 @@
     </div>
 </div>
 </section>
-<div class="home-slider-area">
+<div class="home-slider-area home-slider">
 	<div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
 		<ol class="carousel-indicators">
 			<li data-target="#welcome-slide-carousel" data-slide-to="0" class="active"></li>
 			<li data-target="#welcome-slide-carousel" data-slide-to="1"></li>
 			<li data-target="#welcome-slide-carousel" data-slide-to="2"></li>
+			<li data-target="#welcome-slide-carousel" data-slide-to="3"></li>
+			<li data-target="#welcome-slide-carousel" data-slide-to="4"></li>
 		</ol>
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
@@ -49,9 +51,13 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-12">
-										<h2>The First Choice in Quality</h2>
-										<p style="font-size: 26px;">Good Working Machinery</p>
-
+										<h2>Record 35 years</h2>
+										<p style="font-size: 26px;">Only Machines indigenously developed and manufactured in INDIA 
+											More than 23 Patents to prove its Technological Marvel
+											Long Lasting performance, Scope of Up gradation.
+											Easily available Spares even after 10 years in service
+											Provide Convenience, peace of Mind 
+										</p>
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
@@ -68,8 +74,10 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-12">
-										<h2>Automatic Edge Bander</h2>
-										<p style="font-size: 26px;">Edge Banding, Where DNA turns into TECHNOLOGY</p>
+										<h2>Now at multiple place in Uttar Pradesh and Bihar</h2>
+										<p style="font-size: 26px;">Demo Centre – All machines on display</p>
+										<p style="font-size: 26px;"> Service Centre – 24 hrs help line for online and onsite service</p>
+										<p style="font-size: 26px;"> Operators Training Centre – for providing Skilled, Trained and Certified operators</p>
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
@@ -86,9 +94,47 @@
 							<div class="container">
 								<div class="row">
 									<div class="col-md-12">
-										<h2 style="font-size: 32px; color: #fff;">Highest Number of</h2>
-										<h2>Successfully Running Machines</h2>
-										<p style="font-size: 26px;">in Panel Processing industry in India</p>
+										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
+										<h2>Opraters Training Center – (Training & Placement)</h2>
+										<p style="font-size: 26px;">For the first time in Uttar Pradesh and in Bihar Launching</p>
+
+										<a class="slide-btn" href="contact.php">Contact Us</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<div class="single-slide-item slide-4">
+					<div class="single-slide-item-table">
+						<div class="single-slide-item-table-cell">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-12">
+										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
+										<h2>Now Avail</h2>
+										<p style="font-size: 26px;">Govt Subsidy under various schemes of State & Central Govt Loans from Nationalized Banks </p>
+
+										<a class="slide-btn" href="contact.php">Contact Us</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<div class="single-slide-item slide-5">
+					<div class="single-slide-item-table">
+						<div class="single-slide-item-table-cell">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-12">
+										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
+										<h2>Rental Services</h2>
+										<p style="font-size: 26px;">You can take any machines which will be available on monthly rentals.</p>
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
