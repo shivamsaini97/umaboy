@@ -10,7 +10,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <h2 style="text-transform:capitalize">Hydraulic Cold Press UCP 1001</span></h2>
+                    <h2 style="text-transform:capitalize">Hydraulic Cold Press UCP 1004</span></h2>
                    
                    <!-- <a class="slide-btn" href="javascript:void(0)">Contact Us</a>--></div>
                 </div>
@@ -29,12 +29,12 @@
 	 <div class="col-md-6 text-center item-img">
         <div class="about-text">
 		
-        <img src="images/HYDRAULIC_COLD_PRESS_UCP_1001.png" alt=""> </div>
+        <img src="images/HYDRAULIC_COLD_PRESS_UCP_1004.png" alt=""> </div>
         <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
       </div>
       <div class="col-md-6">
         <div class="about-text">
-		<h3>Hydraulic Cold Press UCP 1001</h3><hr/>
+		<h3>Hydraulic Cold Press UCP 1004</h3><hr/>
           <p>
 		  
 		  <table>
@@ -52,14 +52,14 @@
   </tr>
   <tr>
     <td><b>Max. pressure</b> </td>
-    <td>50 tons</td>
-    <td>50 tons</td>
+    <td>100 tons</td>
+    <td>100 tons</td>
     
   </tr>
   <tr>
     <td><b>Max. opening</b> </td>
-    <td>1000mm</td>
-    <td>1000mm</td>
+    <td>800mm</td>
+    <td>800mm</td>
     
   </tr>
   <tr>
@@ -70,8 +70,8 @@
   </tr>
   <tr>
     <td><b>Overall dimensions(LxWxH)</b></td>
-    <td>3000 x 1300 x 3050mm</td>
-    <td>3000 x 1300 x 3050mm</td>
+    <td>3000 x 1450 x 3000mm</td>
+    <td>3000 x 1450 x 3000mm</td>
     
   </tr>
   <tr>
