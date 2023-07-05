@@ -1,5 +1,9 @@
 <?php include('header.php'); ?>
-
+<style>
+  .cutting .single-blog-section {
+        min-height: 400px;
+}
+</style>
 <div class="home-slider-area ">
   <div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
    
@@ -31,7 +35,7 @@
 
 
 
-<div class="blog-wrapper panel">
+<div class="blog-wrapper panel cutting">
   <div class="container">
     <div class="title">
       <h2>Our Products</h2><hr/>
@@ -100,7 +104,7 @@
             
             <div class="content">
               <a href="beam-saw-auto-detail.php"><h3>Beam Saw UBS 3200 Auto</h3></a>
-              <p>Maximum production output with excellent cutting of multiple panels</p>
+              <!-- <p>Maximum production output with excellent cutting of multiple panels</p> -->
               <div class="collor-bottom-two"></div>
             </div> 
           
@@ -116,7 +120,7 @@
             
             <div class="content">
               <a href="beam-saw-detail.php"><h3>Beam Saw UBS 3200</h3></a>
-              <p>Maximum production output with excellent cutting of multiple panels</p>
+              <!-- <p>Maximum production output with excellent cutting of multiple panels</p> -->
               <div class="collor-bottom-two"></div>
             </div>
           

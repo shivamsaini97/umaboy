@@ -111,6 +111,13 @@
 											<div class="row">
 												<div class="col-lg-6">
 													<div class="sub-menu sub-menu-design">
+													<li class="nav__item">
+															<a href="lamination.php" class="nav__item-link">Lamination</a>
+														</li>
+														
+														<li class="nav__item">
+															<a href="auto-edge-bander.php" class="nav__item-link">Edge Bandign</a>
+														</li>
 														<li class="nav__item">
 															<a href="beam-saw.php" class="nav__item-link">Beam Saw</a>
 														</li>
@@ -153,6 +160,9 @@
 												</div>
 												<div class="col-lg-6">
 													<div class="sub-menu sub-menu-design">
+													<li class="nav__item">
+															<a href="cutting.php" class="nav__item-link">Cutting</a>
+														</li>
 														<li class="nav__item">
 															<a href="cnc-machining-center.php" class="nav__item-link"
 																>CNC Machining Center
