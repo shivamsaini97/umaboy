@@ -38,7 +38,7 @@
         <div class="about-text">
 		
 		<img src="images/HIGH_SPEED_ROUTER_UR1008.png" alt=""> </div>
-    <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
+    <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
       </div>
       <div class="col-md-6">
         <div class="about-text">

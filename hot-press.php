@@ -1,5 +1,4 @@
 <?php include('header.php'); ?>
-
 <div class="home-slider-area">
   <div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
    
@@ -12,7 +11,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <h2 style="text-transform:capitalize">Panel Saw UPS 3200 A++</span></h2>
+                    <h2 style="text-transform:capitalize">Hydraulic Hot-Cold Press UHP 1002</span></h2>
                    
                    <!-- <a class="slide-btn" href="javascript:void(0)">Contact Us</a>--></div>
                 </div>
@@ -32,128 +31,114 @@
 <div class="home-aboutus-wrapper detail-page">
     <div class="container">
         <div class="row">
-            <div class="col-md-12 head">
-                <!-- <h2>Perfection With Every Cut !!</h2> -->
+        <div class="col-md-12 about-heading">
+            <h2 style="margin-bottom: 60px;"><span class="red-color">Hydraulic Hot-Cold </span><span class="blue-color">Press UHP 1002</span></h2>
+                <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
-            <div class="head-para">
-                <p>This Machine is suitable to cut solid wood, plywood MDF board, particle board & various kind of laminated board. <br />Compact and rigid structure with high precision performance.</p>
-            </div>
+            <!-- <div class="paragraph">
+                <p>UMABOY have more than 5000 panel saw across the world.The main reason behind this is Quality and Service.</p>
+            </div> -->
         </div>
     </div>
 </div>
 
-<div class="home-aboutus-wrapper detail-page">
+<div class="home-aboutus-wrapper detail-page" style="padding-top: 0;">
     <div class="container">
       <div class="row">
        <div class="col-md-6 text-center">
           <div class="about-text">
           
-          <img src="images/PANEL_SAW_UPS_3200A++.png" alt=""> </div>
+          <img src="images/HYDRAULIC_HOT-COLD_PRESS_UHP_1002.png" alt=""> </div>
       <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
         </div>
         <div class="col-md-6">
           <div class="about-text">
-          <h3>Panel Saw UPS 3200 A++</h3><hr/>
+          <!-- <h3>Panel Saw UPS 3200A</h3><hr/> -->
             
             <table>
     <tr>
       <th>MODEL</th>
-      <th>UBS 3200A++</th>
+      <th>UHP 1002</th>
       
     </tr>
     <tr>
-      <td><b>Dimension of sliding table</b> </td>
-      <td>3200 x 375 mm</td>
+      <td><b>Size of hot plate</b> </td>
+      <td>2500 x 1300mm</td>
       
     </tr>
     <tr>
-      <td><b>Gross cut capacity</b> </td>
-      <td>3200 mm</td>
+      <td><b>Total thrust</b> </td>
+      <td>100 tons</td>
       
     </tr>
     <tr>
-      <td><b>Width of cut between saw blade and rip fence</b> </td>
-      <td>1220 mm</td>
+      <td><b>Cylinders</b> </td>
+      <td>6 Nos</td>
       
     </tr>
     <tr>
-      <td><b>Saw blade diameter</b> </td>
-      <td>300 m (250-300)</td>
+      <td><b>Piston dia</b> </td>
+      <td>100mm</td>
       
     </tr>
     <tr>
-      <td><b>Height of cut</b></td>
-      <td>75 mm</td>
+      <td><b>Stroke</b></td>
+      <td>300/450mm</td>
       
     </tr>
     <tr>
-      <td><b>Speed of main saw spindle</b></td>
-      <td>4000/6000 rpm</td>
+      <td><b>Motor / RPM</b></td>
+      <td>3 HP/1440</td>
       
     </tr>
     <tr>
-      <td><b>Spindle diameter</b></td>
-      <td>30 mm</td>
+      <td><b>Electric elements</b></td>
+      <td>18kw</td>
       
     </tr>
     <tr>
-      <td><b>Tilting saw blade</b></td>
-      <td>0-45°</td>
+      <td><b>Heating of machine</b></td>
+      <td>Aluminum</td>
       
     </tr>
     <tr>
-      <td><b>Main motor</b></td>
-      <td>5.5kw</td>
+      <td><b>Height of machine</b></td>
+      <td>1900mm</td>
       
     </tr>
     <tr>
-      <td><b>Scoring saw blade diameter</b></td>
-      <td>120 mm</td>
+      <td><b>Movement</b></td>
+      <td>Hydraulic</td>
       
     </tr>
     <tr>
-      <td><b>Speed of scoring saw blade</b></td>
-      <td>8000r/min</td>
+      <td><b>Mode of heating</b></td>
+      <td>Electric/Oil</td>
       
     </tr>
     <tr>
-      <td><b>Scoring spindle diameter</b></td>
-      <td>20 mm</td>
+      <td><b>Heating temp</b></td>
+      <td>150° C</td>
       
     </tr>
     <tr>
-      <td><b>Scoring motor</b></td>
-      <td>0.75kw</td>
+      <td><b>Maximum pressure</b></td>
+      <td>100kg/cm2</td>
       
     </tr>
     <tr>
-      <td><b>Overall dimensions</b></td>
-      <td>3250 x 3250 x 900 mm</td>
+      <td><b>Job completion time</b></td>
+      <td>5 minutes</td>
       
     </tr>
     <tr>
-      <td><b>Rip fence movement</b></td>
-      <td>Auto</td>
+      <td><b>Day light</b></td>
+      <td>350mm</td>
       
     </tr>
     <tr>
-      <td><b>45° Tilt</b></td>
-      <td>Auto</td>
-      
-    </tr>
-    <tr>
-      <td><b>Cross Cut Fence Read Out</b></td>
-      <td>Digital</td>
-      
-    </tr>
-    <tr>
-      <td><b>PLC Touch Screen</b></td>
-      <td>Yes</td>
-      
-    </tr>
-    <tr>
-      <td><b>Cutter Up Down Movement</b></td>
-      <td>Auto</td>
+      <td><b>Press size</b></td>
+      <td>3600x1550x1900mm</td>
       
     </tr>
   </table>
@@ -172,5 +157,4 @@
     </div>
   </div>
   </div>
-
   <?php include('footer.php'); ?>

@@ -51,7 +51,7 @@
             <div class="about-text">
               
             <img src="images/CNC_ROUTER_UCR_1325A.png" alt=""> </div>
-        <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
+        <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
           </div>
           <div class="col-md-6">
             <div class="about-text">

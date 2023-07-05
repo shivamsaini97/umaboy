@@ -49,7 +49,7 @@
                 <div class="about-text">
 		
                     <img src="images/rollerpress.png" alt="" class="w-50"> </div>
-                    <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
+                    <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
                   </div>
             </div>
         </div>

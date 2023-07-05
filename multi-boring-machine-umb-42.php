@@ -34,7 +34,7 @@
       </div>
    </div>
 </div>
-<div class="home-aboutus-wrapper detail-page"style="padding-top: 0;">
+<div class="home-aboutus-wrapper detail-page" style="padding-top: 0;">
 <div class="container">
    <div class="row">
       <div class="col-md-12 text-center">
@@ -42,7 +42,7 @@
             <div class="about-text">
                <img src="images/Multi-Boring-42.png" alt=""> 
             </div>
-            <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
+            <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
          </div>
          <div class="col-md-6">
             <div class="about-text">
@@ -105,7 +105,7 @@
             <div class="about-text">
                <img src="images/UMB_42_1.jpg" alt=""> 
             </div>
-            <a href="contact.html" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
+            <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
          </div>
          <div class="col-md-6">
             <div class="about-text">
