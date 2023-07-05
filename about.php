@@ -83,7 +83,7 @@
       <div class="col-md-4 text-center" style="margin-top: 30px;"> 
           <div class="finance">
             
-            <img src="images/Mobile-Service-Centre.avif" alt="" style="margin-bottom: 20px;">
+            <img src="images/Mobile-Service-Centre.jpg" alt="" style="margin-bottom: 20px;">
             <div class="fia">
               <h3><b>Mobile Service Centre</b> </h3>
             <p>A unique Mobile service centers are going to start which will be equipped with spares of all machines with an aim to provide effective services to cut down your Machine down time from weeks/Months to hours.</p>
