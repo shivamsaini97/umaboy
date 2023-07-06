@@ -132,6 +132,8 @@
 </div>
 </div>
 
+
+
 <script src="assets/jquery/jquery-3.1.1.min.js"></script>
 <script src="assets/jquery/jquery.meanmenu.js"></script>
 <script src="https://cdn.jsdelivr.net/jquery.validation/1.15.1/jquery.validate.min.js"></script>
@@ -143,6 +145,11 @@
 <script src="assets/wow/wow.min.js"></script>
 <script src="assets/jquery/jquery.magnific-popup.js"></script>
 <script src="js/custom.js"></script>
+<!-- <script>
+    $('.home-slider-area').carousel({
+    interval: 5000
+  });
+</script> -->
 </body>
-</php>
+
 

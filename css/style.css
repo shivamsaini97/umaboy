@@ -589,6 +589,12 @@ a.slide-btn:active::before {
 	background-repeat: no-repeat;
 	background-position: center;
 }
+.slide-8 {
+	background: url(../images/banner-6.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
 .single-slide-item {
 	position: relative;
 	z-index: 1;

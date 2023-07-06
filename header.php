@@ -13,7 +13,7 @@
 		<link href="assets/owl-carousel/css/owl.carousel.css" rel="stylesheet" />
 		<link href="assets/owl-carousel/css/owl.theme.css" rel="stylesheet" />
 		<link href="assets/css/magnific-popup.css" type="text/css" rel="stylesheet" />
-		<link href="css/style.css" rel="stylesheet" />
+		<link href="css/style.css" rel="stylesheet"?v=<?=time();?>/>
 		<link href="assets/animate/animate.css" rel="stylesheet" />
 		<link rel="shortcut icon" type="image/x-icon" href="images/favicon.php" />
 	</head>

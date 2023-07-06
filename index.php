@@ -28,7 +28,7 @@
 					<textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea>
 					</div>
 					<button class="btn btn-default unicod-btn-black form-btn" type="submit">Submit</button>
-  </form> -->
+  				</form> -->
             </div>
         </div>
     </div>
@@ -42,6 +42,7 @@
 			<li data-target="#welcome-slide-carousel" data-slide-to="2"></li>
 			<li data-target="#welcome-slide-carousel" data-slide-to="3"></li>
 			<li data-target="#welcome-slide-carousel" data-slide-to="4"></li>
+			<li data-target="#welcome-slide-carousel" data-slide-to="5"></li>
 		</ol>
 		<div class="carousel-inner" role="listbox">
 			<div class="item active">
@@ -50,7 +51,7 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-8">
+									<div class="col-md-6">
 										<h2>Record 35 years</h2>
 										<p style="font-size: 18px;">Only Machines indigenously developed and manufactured in INDIA 
 											More than 23 Patents to prove its Technological Marvel
@@ -73,9 +74,9 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-8">
+									<div class="col-md-6">
 										<h2>Now at multiple place in Uttar Pradesh and Bihar</h2>
-										<p style="font-size: 18px;">Demo Centre – All machines on display</p>
+										<p style="font-size: 24px;">Demo Centre – All machines on display</p>
 										<p style="font-size: 18px;"> Service Centre – 24 hrs help line for online and onsite service</p>
 										<p style="font-size: 18px;"> Operators Training Centre – for providing Skilled, Trained and Certified operators</p>
 										<a class="slide-btn" href="contact.php">Contact Us</a>
@@ -93,10 +94,17 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-8">
+									<div class="col-md-6">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
 										<h2>Opraters Training Center – (Training & Placement)</h2>
 										<p style="font-size: 18px;">For the first time in Uttar Pradesh and in Bihar Launching</p>
+			
+						
+											<p style="font-size: 18px;">Machine Operation</p>
+											<p style="font-size: 18px;"> Preventive Maintainance</p>
+											<p style="font-size: 18px;">Repairs</p>
+											
+					
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
@@ -112,10 +120,10 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-8">
+									<div class="col-md-6">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
-										<h2>Now Avail</h2>
-										<p style="font-size: 18px;">Govt Subsidy under various schemes of State & Central Govt Loans from Nationalized Banks </p>
+										<h2>Loan & Govt Subsidy</h2>
+										<p style="font-size: 18px;">Our Clients can now avail loan from nationalized banks and Govt Subsidy without any hidden charges.</p>
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
@@ -131,10 +139,29 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-8">
+									<div class="col-md-6">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
 										<h2>Rental Services</h2>
-										<p style="font-size: 18px;">You can take any machines which will be available on monthly rentals.</p>
+										<p style="font-size: 18px;">Launching shortly this unique rental services wherein you can take machines on monthly rental to meet timely delivery commitments in case of break down or new product introduction in Market OR Financial Constraints.</p>
+
+										<a class="slide-btn" href="contact.php">Contact Us</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<div class="single-slide-item slide-8">
+					<div class="single-slide-item-table">
+						<div class="single-slide-item-table-cell">
+							<div class="container">
+								<div class="row">
+									<div class="col-md-6">
+										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
+										<h2>Mobile Service Center</h2>
+										<p style="font-size: 18px;">Shortly launching this Unique Mobile Service Centre which will be fully equipped with Spares and Certified Engineers.</p>
 
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
@@ -145,12 +172,12 @@
 				</div>
 			</div>
 
-			<!-- <a class="left welcome-control" href="#welcome-slide-carousel" role="button" data-slide="prev"
+			<a class="left welcome-control" href="#welcome-slide-carousel" role="button" data-slide="prev"
 				><i class="fa fa-angle-left"></i
 			></a>
 			<a class="right welcome-control" href="#welcome-slide-carousel" role="button" data-slide="next"
 				><i class="fa fa-angle-right"></i
-			></a> -->
+			></a> 
 		</div>
 	</div>
 </div>
