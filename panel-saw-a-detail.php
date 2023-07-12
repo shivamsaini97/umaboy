@@ -32,7 +32,7 @@
     <div class="container">
         <div class="row">
         <div class="col-md-12 about-heading">
-            <h2 style="margin-bottom: 60px;"><span class="red-color">Perfection With </span><span class="blue-color">Every Cut !!</span></h2>
+            <h2 ><span class="red-color">Perfection With </span><span class="blue-color">Every Cut !!</span></h2>
                 <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
@@ -42,14 +42,14 @@
     </div>
 </div>
 
-<div class="home-aboutus-wrapper detail-page">
+<div class="home-aboutus-wrapper detail-page p-0" style="padding-top:0;" >
     <div class="container">
       <div class="row">
        <div class="col-md-6 text-center">
           <div class="about-text">
           
           <img src="images/PANEL_SAW_UPS_3200A.png" alt=""> </div>
-      <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
+            <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
         </div>
         <div class="col-md-6">
           <div class="about-text">

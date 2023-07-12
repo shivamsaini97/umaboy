@@ -12,7 +12,7 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-12">
-                    <h2 style="text-transform:capitalize">Auto Edge Bander Expert 2600</span></h2>
+                    <h2 style="text-transform:capitalize">Auto Edge Bander Expert UEB 3.1</span></h2>
                    
                    <!-- <a class="slide-btn" href="javascript:void(0)">Contact Us</a>--></div>
                 </div>
@@ -55,7 +55,7 @@
         </div>
         <div class="col-md-6">
           <div class="about-text">
-          <h3>Auto Edge Bander Expert 2600</h3><hr/>
+          <h3>Auto Edge Bander Expert UEB 3.1</h3><hr/>
             
             <table>
     <tr>

@@ -1,4 +1,61 @@
-<?php include('header.php'); ?>
+<?php 
+@ob_start();
+include('header.php');
+error_reporting(E_ALL);
+ini_set('display_errors', '1');
+session_start();
+if ($_SERVER['REQUEST_METHOD'] == 'POST') { 
+  
+      $site_owners_email = 'enquiry@umiyamachines.com'; // Replace this with your own email address
+      $site_owners_name = 'umiyamachines.com'; // replace with your name
+    
+      $name=$_POST['name'];
+      $email=$_POST['email'];
+      $phone=$_POST['tel'];
+      $message=$_POST['message'];
+	
+	
+    $nameText = null;
+    $subject = "Contact Request";
+    $telText  = null;
+    $emailText   = null;
+	
+	if ( !empty($name) ) {
+		$nameText .= '<b>Name:</b> ' . $name . '<br/>';
+	}
+	
+	if ( !empty($phone) ) {
+		$telText .= '<b>Telephone:</b> ' . $phone . '<br/>';
+	}
+	
+	if ( !empty($email) ) {
+		$emailText .= '<b>E-mail:</b> ' . $email . '<br/>';
+	}
+	if ( !empty($message) ) {
+		$content = '<b>Message:</b> ' . $message . '<br/>';
+	}
+		require_once('PHPMailer/src/PHPMailer.php');
+		$mail = new PHPMailer\PHPMailer\PHPMailer();
+		
+		$mail->From = $email;
+		$mail->FromName = $name;
+		$mail->Subject = $subject;
+        $mail->SMTPDebug  = 2; 
+		$mail->AddAddress($site_owners_email, $site_owners_name); 
+		
+		$mail->Body = '<html><body>'.$nameText . $telText . $emailText . $content . '</body></html>';
+		
+		$mail->isHTML(true);
+		if($mail->Send())
+		{
+		$_SESSION["message"]='Thank you. Your message has been sent.';
+		}else{
+		    $_SESSION["error_message"]='Somthing went wrong!.';
+		}
+		header('Location: contact.php');
+	
+}
+ ?>
 
   <div class="home-slider-area contact contact-page-banner">
     <div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
@@ -37,7 +94,14 @@
              
         </div>
           <div class=" col-lg-6 col-sm-12">
-          <form  action="javascript:void(0)"  id="contact_form">
+              <?php if(isset($_SESSION["message"])){ ?>
+                <div class="alert alert-success alert-sm"  role="alert"><?php echo $_SESSION["message"]; ?></div>
+                <?php } ?>
+                
+                <?php if(isset($_SESSION["error_message"])){ ?>
+                <div class="alert alert-danger alert-sm"  role="alert"><?php echo $_SESSION["error_message"]; ?></div>
+                <?php } ?>
+          <form  action=""  id="contact_form" method="POST">
                 <div>
                   <label for="">Name</label>
                   <input type="text" name="name" id="name" value=""  class=""  placeholder="Name" onkeydown="return /[a-z ]/i.test(event.key)" >
@@ -52,7 +116,7 @@
                 </div>
                 <div>
                   <label for="">Message</label>
-                    <textarea name="" id="" cols="30" rows="4"placeholder="Message"></textarea>
+                    <textarea name="message" id="" cols="30" rows="4"placeholder="Message"></textarea>
                 </div>
                <div>  
                 <input type="submit" class="btn">

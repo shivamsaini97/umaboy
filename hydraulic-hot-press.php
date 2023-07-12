@@ -68,7 +68,7 @@
     </tr>
     <tr>
       <td><b>Total thrust</b> </td>
-      <td>100 tons</td>
+      <td>100 ton</td>
       
     </tr>
     <tr>

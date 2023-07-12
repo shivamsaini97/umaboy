@@ -39,7 +39,7 @@
                     </div>
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu">
-                            <li><a href="beam-saw.php">Bwam Saw</a></li>
+                            <li><a href="beam-saw.php">Beam Saw</a></li>
                             <li><a href="panel-saw.php">Panel Saw</a></li>
                             <li><a href="auto-edge-bander.php">Auto Edge Bander</a></li>
                             <li><a href="dust-collector.php">Dust Collector</a></li>
@@ -57,9 +57,9 @@
                     <div class="footer-widget-content">
                         <ul class="footer-conatct-menu address">
                             <li>
-                                <a href="mailto:demo@gmail.com"
+                                <a href="mailto:enquiry@umiyamachines.com"
                                     ><i class="fa fa-envelope"></i><span>Email : </span>&nbsp;
-                                    demo@gmail.com</a
+                                enquiry@umiyamachines.com</a
                                 >
                             </li>
                             <li>

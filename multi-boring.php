@@ -37,7 +37,7 @@
       <h2>Our Products</h2><hr/>
       </div>
     <div class="row">
-      <div class="col-lg-4 col-md-6 col-sm-6">
+      <!-- <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
           <a href="multi-boring-machine-umb-21.php">
             <img class="multi-boring-machine-umb-21.php" src="images/MULTI-BORING_UMB_21.png" alt="">
@@ -53,7 +53,7 @@
             <button class="btn btn-default unicod-btn-black" type="submit"><a href="multi-boring-machine-umb-21.php">read more</a></button>
           </div>
         </div>
-      </div>
+      </div> -->
       <div class="col-lg-4 col-md-6 col-sm-6">
         <div class="single-blog-section"> 
           <a href="multi-boring-machine-umb-42.php">

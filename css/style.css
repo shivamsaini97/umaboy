@@ -259,7 +259,7 @@ header {
 /* .mainmenu-area ul.nav.navbar-nav li.active a {
 	color: #105ea9;
 } */
-.top-header-add li:hover,
+.top-header-add li a:hover,
 .header-social-icons li a:hover {
 	opacity: 0.7;
 }
@@ -3041,8 +3041,8 @@ i.fa.fa-angle-right,i.fa.fa-angle-left {
 }
 /* header  */
 ul.nav.navbar-nav li ul {
-	width: 60% !important;
-	left: 50%;
+	width: auto;
+	left: 78%;
 }
 .submenu h5 {
 	color: #fff;

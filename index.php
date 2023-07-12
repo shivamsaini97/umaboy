@@ -74,11 +74,11 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-6">
-										<h2>Now at multiple place in Uttar Pradesh and Bihar</h2>
-										<p style="font-size: 24px;">Demo Centre – All machines on display</p>
-										<p style="font-size: 18px;"> Service Centre – 24 hrs help line for online and onsite service</p>
-										<p style="font-size: 18px;"> Operators Training Centre – for providing Skilled, Trained and Certified operators</p>
+									<div class="col-md-8">
+										<h2>Demo Centre – Service Centre</h2>
+										<p style="font-size: 24px;">Shortly Launching Demo and Service Centers at Multiple locations in UP & Bihar.</p>
+										<!-- <p style="font-size: 18px;"> Service Centre – 24 hrs help line for online and onsite service</p>
+										<p style="font-size: 18px;"> Operators Training Centre – for providing Skilled, Trained and Certified operators</p> -->
 										<a class="slide-btn" href="contact.php">Contact Us</a>
 									</div>
 								</div>
@@ -94,15 +94,15 @@
 						<div class="single-slide-item-table-cell">
 							<div class="container">
 								<div class="row">
-									<div class="col-md-6">
+									<div class="col-md-8">
 										<!-- <h2 style="font-size: 32px; color: #fff;">Highest Number of</h2> -->
 										<h2>Opraters Training Center – (Training & Placement)</h2>
 										<p style="font-size: 18px;">For the first time in Uttar Pradesh and in Bihar Launching</p>
 			
 						
-											<p style="font-size: 18px;">Machine Operation</p>
-											<p style="font-size: 18px;"> Preventive Maintainance</p>
-											<p style="font-size: 18px;">Repairs</p>
+											<p style="font-size: 18px;">- Machine Operation</p>
+											<p style="font-size: 18px;">- Preventive Maintainance</p>
+											<p style="font-size: 18px;">- Repairs</p>
 											
 					
 
@@ -489,14 +489,10 @@
 						<div class="row">
 							<div class="col-lg-12">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-									irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-									pariatur.
+								I've been working with Umiya Machine for the past 3 years, and I've been very impressed with their products and services. The machines are high-quality, and the after-sales service is excellent.
 								</p>
 								<img class="review-img" src="./images/emaa.jpg" alt="" />
-								<small>Client Name</small>
+								<small>Sandeep Mishra </small>
 							</div>
 						</div>
 					</blockquote>
@@ -506,14 +502,10 @@
 						<div class="row">
 							<div class="col-lg-12">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-									irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-									pariatur.
+								I was looking for a company that could provide me with trained and certified manpower to operate my hi-tech machines. I found Umiya Machine, and they were able to provide me with the exact manpower I needed.
 								</p>
 								<img class="review-img" src="./images/john.jpg" alt="" />
-								<small>Client Name</small>
+								<small>Devendra Arora</small>
 							</div>
 						</div>
 					</blockquote>
@@ -523,14 +515,10 @@
 						<div class="row">
 							<div class="col-lg-12">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-									irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-									pariatur.
+								I've never had any problems with my machines, and if I have, Umiya Machine has always been quick to respond and fix the problem. I would highly recommend Umiya Machine to anyone looking for high-quality machines and excellent service.
 								</p>
 								<img class="review-img" src="./images/lisa.jpg" alt="" />
-								<small>Client Name</small>
+								<small>Aadesh Yadav</small>
 							</div>
 						</div>
 					</blockquote>
@@ -540,14 +528,10 @@
 						<div class="row">
 							<div class="col-lg-12">
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-									irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-									pariatur.
+								I'm a small business owner, and I was looking for a company that could provide me with the best products and services at a competitive price. I found Umiya Machine, and they were able to meet all of my needs.
 								</p>
 								<img class="review-img" src="./images/mark.jpg" alt="" />
-								<small>Client Name</small>
+								<small>Satparvan Pratap</small>
 							</div>
 						</div>
 					</blockquote>

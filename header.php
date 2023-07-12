@@ -21,6 +21,13 @@
     body .home-product .single-blog-section {
         min-height: 420px;
       }
+      .active-product{
+          color: red !important;
+      }
+      li.active a {
+        color: white !important;
+        
+      }
   </style>
 	<body>
 		<header class="wow fadeInDown" data-offset-top="197" data-spy="affix">
@@ -31,12 +38,11 @@
 							<div class="top-header-add">
 								<ul>
 									<li>
-										<i class="fa fa-phone" aria-hidden="true"></i><span>Call us :</span
-										><a href="tel:+919723468755"> +91 9723468755</a>
+										<i class="fa fa-phone" aria-hidden="true"></i><span>Call us : </span ><a href="tel:+919723468755"> +91 9723468755</a>
 									</li>
 									<li>
 										<i class="fa fa-envelope" aria-hidden="true"></i
-										><a href="mailto:demo@gmail.com"><span>Email :</span> demo@gmail.com</a>
+										><span> Email :</span><a href="mailto:enquiry@umiyamachines.com">  enquiry@umiyamachines.com</a>
 									</li>
 								</ul>
 							</div>
@@ -94,13 +100,14 @@
 								/></a>
 							</div>
 							<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+							    <?php $pageArr=['/lamination.php','/auto-edge-bander.php','/cutting.php','/multi-boring.php','/vacuum-press.php','/high-speed-router.php','/spindle-moulder.php']; ?>
 								<ul class="mobile-menu nav navbar-nav">
-									<li class="active"><a href="index.php">Home</a></li>
-									<li><a href="about.php">About Us</a></li>
+									<li><a <?php if($_SERVER['SCRIPT_NAME']=="/index.php") { ?>  class="active-product"   <?php   }  ?> href="index.php">Home</a></li>
+									<li><a <?php if($_SERVER['SCRIPT_NAME']=="/about.php") { ?>  class="active-product"   <?php   }  ?> href="about.php">About Us</a></li>
 									<li class="product-menu">
 										<a
 											href="product.php"
-											class="dropdown-toggle"
+											class="<?php if(in_array($_SERVER['SCRIPT_NAME'],$pageArr)){ echo 'active-product'; } ?> dropdown-toggle"
 											data-toggle="dropdown"
 											role="button"
 											aria-haspopup="true"
@@ -109,56 +116,74 @@
 										></a>
 										<ul class="submenu">
 											<div class="row">
-												<div class="col-lg-6">
+												<div class="col-lg-12">
 													<div class="sub-menu sub-menu-design">
-													<li class="nav__item">
+													<li class="<?php if($_SERVER['SCRIPT_NAME']=="/lamination.php"){ echo 'text-light active'; } ?> nav__item">
 															<a href="lamination.php" class="nav__item-link">Lamination</a>
 														</li>
 														
-														<li class="nav__item">
+														<li class="<?php if($_SERVER['SCRIPT_NAME']=="/auto-edge-bander.php"){ echo 'text-light active'; } ?> nav__item">
 															<a href="auto-edge-bander.php" class="nav__item-link">Edge Bandign</a>
 														</li>
-														<li class="nav__item">
+														<li class="<?php if($_SERVER['SCRIPT_NAME']=="/cutting.php"){ echo 'active'; } ?> nav__item">
+															<a href="cutting.php" class="nav__item-link">Cutting</a>
+														</li>
+														<!-- <li class="nav__item">
 															<a href="beam-saw.php" class="nav__item-link">Beam Saw</a>
 														</li>
 														<li class="nav__item">
 															<a href="panel-saw.php" class="nav__item-link"
 																>Panel Saw</a
 															>
-														</li>
-														<li class="nav__item">
+														</li> -->
+														<!-- <li class="nav__item">
 															<a href="auto-edge-bander.php" class="nav__item-link"
 																>Auto Edge Bander
 															</a>
-														</li>
-														<li class="nav__item">
+														</li> -->
+														<!-- <li class="nav__item">
 															<a href="dust-collector.php" class="nav__item-link"
 																>Dust Collector</a
 															>
-														</li>
-														<li class="nav__item">
+														</li> -->
+														<!-- <li class="nav__item">
 															<a href="manual-edge-bander.php" class="nav__item-link"
 																>Manual Edge Bander</a
 															>
-														</li>
-														<li class="nav__item">
+														</li> -->
+														<!-- <li class="nav__item">
 															<a href="post-forming.php" class="nav__item-link"
 																>Post Forming</a
 															>
-														</li>
-														<li class="nav__item">
+														</li> -->
+														<!-- <li class="nav__item">
 															<a href="roller-press.php" class="nav__item-link"
 																>Roller Press</a
 															>
-														</li>
-														<li class="nav__item">
+														</li> -->
+														<li class="<?php if($_SERVER['SCRIPT_NAME']=="/multi-boring.php"){ echo 'active'; } ?> nav__item">
 															<a href="multi-boring.php" class="nav__item-link"
 																>Multi Boring</a
 															>
 														</li>
+														<li class="<?php if($_SERVER['SCRIPT_NAME']=="/vacuum-press.php"){ echo 'active'; } ?> nav__item">
+															<a href="vacuum-press.php" class="nav__item-link"
+																>Doors</a
+															>
+														</li>
+														<li class="<?php if($_SERVER['SCRIPT_NAME']=="/high-speed-router.php"){ echo 'active'; } ?> nav__item">
+															<a href="high-speed-router.php" class="nav__item-link"
+																>High Speed Router</a
+															>
+														</li>
+														<li class="<?php if($_SERVER['SCRIPT_NAME']=="/spindle-moulder.php"){ echo 'active'; } ?> nav__item">
+															<a href="spindle-moulder.php" class="nav__item-link"
+																>Spindle Moulder</a
+															>
+														</li>
 													</div>
 												</div>
-												<div class="col-lg-6">
+												<!-- <div class="col-lg-6">
 													<div class="sub-menu sub-menu-design">
 													<li class="nav__item">
 															<a href="cutting.php" class="nav__item-link">Cutting</a>
@@ -204,11 +229,11 @@
 															>
 														</li>
 													</div>
-												</div>
+												</div> -->
 											</div>
 										</ul>
 									</li>
-									<li><a href="contact.php">Contact Us</a></li>
+									<li><a <?php if($_SERVER['SCRIPT_NAME']=="/contact.php") { ?>  class="active-product"   <?php   }  ?> href="contact.php">Contact Us</a></li>
 								</ul>
 							</div>
 						</nav>

@@ -52,8 +52,8 @@
   </tr>
   <tr>
     <td><b>Max. pressure</b> </td>
-    <td>50 tons</td>
-    <td>50 tons</td>
+    <td>50 ton</td>
+    <td>50 ton</td>
     
   </tr>
   <tr>
