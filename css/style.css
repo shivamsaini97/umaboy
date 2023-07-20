@@ -2680,16 +2680,19 @@ i.fa.fa-angle-right,i.fa.fa-angle-left {
 .counter p {
 	font-weight: 600 !important;
 }
-@media (min-width: 992px) and (max-width: 1024px) {
-	/*** Top Wrapper ***/
+@media (max-width:1500px){
 	.form-contact {
 		background: #fff;
 		padding: 0;
 		border-radius: 10px;
 		overflow-y: auto;
 		overflow-x: hidden;
-		height: 600px;
+		height:600px;
 	}
+}
+@media (min-width: 992px) and (max-width: 1024px) {
+	/*** Top Wrapper ***/
+
 	.top-header-add li {
 		margin-right: 15px;
 	}
