@@ -205,7 +205,7 @@
 <div class="blog-wrapper home-page-product home-product">
 	<div class="container">
 	<div class="about-heading">
-					<h2><span class="red-color"> Wood Working Machineries  </span> <br><span class="blue-color">Product Range By</span></h2>
+					<h2><span class="red-color"> Wood Working Machineries   </span> <br><span class="blue-color"> By Product Range</span></h2>
 				</div>
 		<div class="row">
 			<div class="col-lg-4 col-md-6 col-sm-6">
@@ -273,7 +273,7 @@
 					<a href="auto-edge-b-detail.php"><img src="images/2300.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="auto-edge-b-detail.php"><h3>Auto Edge Bander Expert 2300</h3></a>
+							<a href="auto-edge-b-detail.php"><h3>Auto Edge Bander 2300</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
@@ -288,7 +288,7 @@
 					<a href="auto-edge-b-detail-26.php"><img src="images/2600.png" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="auto-edge-b-detail-26.php"><h3>Auto Edge Bander Expert 2600</h3></a>
+							<a href="auto-edge-b-detail-26.php"><h3>Auto Edge Bander 2600</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
