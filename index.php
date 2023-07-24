@@ -1,39 +1,7 @@
-<?php include('header.php');
- ?>
-<section class="pop-up" id="pop-up">
-<div class="container">
-    <div class="row">
-        <div class="col-md-6 col-sm-8 col-xs-12">
-            <div class="form-contact">
-                <a class="close-form" href="javascript:void(0)">x</a>
-                <img src="images/modal.jpg" alt="" />
-                <!-- <form action="javascript:void(0)" method="post" id="contact-form">
-					<div>
-					<label for="name">Name</label>
-					<input type="text" id="c-name" value=""  placeholder="Name" name="name" onkeydown="return /[a-z ]/i.test(event.key)" />
-					</div>
+<?php include('header.php'); ?>
+<?php include('popup.php'); ?>
 
-					<div>
-					<label for="email">Email</label>
-					<input type="email"  id="c-mail" placeholder="Company Email"  name="email" onkeydown="return /^[w-.+]+@[a-zA-Z0-9.-]+.[a-zA-z0-9]{2,4}$/i.test(event.key)" />
-					</div>
-				
-					<div>
-					<label for="phone">Phone</label>
-					<input type="text" id="phone" placeholder="Phone" name="tel" maxlength="10" onkeypress="if(this.value.length==10) return false;" oninput="this.value = this.value.replace(/[^0-9.]/g, '').replace(/(\..*?)\..*/g, '$1')"/>
-					</div>
 
-					<div>
-					<label for="subject">Message</label>
-					<textarea id="subject" name="subject" placeholder="Write something.." style="height:150px"></textarea>
-					</div>
-					<button class="btn btn-default unicod-btn-black form-btn" type="submit">Submit</button>
-  				</form> -->
-            </div>
-        </div>
-    </div>
-</div>
-</section>
 <div class="home-slider-area home-slider">
 	<div id="welcome-slide-carousel" class="carousel slide carousel-fade" data-ride="carousel">
 		<ol class="carousel-indicators">
@@ -270,10 +238,10 @@
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="auto-edge-b-detail.php"><img src="images/2300.png" alt="" /></a>
+					<a href="auto-edge-b-detail.php"><img src="images/2.4esg-open.jpg" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="auto-edge-b-detail.php"><h3>Auto Edge Bander 2300</h3></a>
+							<a href="auto-edge-b-detail.php"><h3>Auto Edge Bander 2.4</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
@@ -285,10 +253,10 @@
 			</div>
 			<div class="col-lg-4 col-md-6 col-sm-6">
 				<div class="single-blog-section">
-					<a href="auto-edge-b-detail-26.php"><img src="images/2600.png" alt="" /></a>
+					<a href="auto-edge-b-detail-26.php"><img style="height: 231px;  object-fit: contain;  width: 100%;" src="images/3.1-open.jpg" alt="" /></a>
 					<div class="blog-info">
 						<div class="content">
-							<a href="auto-edge-b-detail-26.php"><h3>Auto Edge Bander 2600</h3></a>
+							<a href="auto-edge-b-detail-26.php"><h3>Auto Edge Bander 3.1</h3></a>
 							<div class="collor-bottom-two"></div>
 						</div>
 
@@ -400,81 +368,7 @@
 		</div>
 	</div>
 </div>
-<!-- testimonials  -->
-<!-- <div class="testimonials-wrapper">
-  <div class="container">
-    <div class="title">
-      <h2>Events Company Events</h2>
-      </div>
-    <div class="col-lg-8 col-lg-offset-2">
-      <div id="testimonial" class="owl-carousel owl-theme">
-        <div class="item">
-          <blockquote>
-            <div class="row">
-              <div class="col-lg-12">
-                <img class="test-img" src="images/pro2.jpg" alt="">
-                <h3><b>India Wood 2018</b></h3>
-                <h4 >25 Feb, 2018</h4 > 
-                <p>We were participated in India wood 2018 at Bangalore . We launchedExpert-4600 & CNC Beam saw Machine . First time in India at Bangalore.</p>
-                </div>
-            </div>
-          </blockquote>
-        </div>
-        <div class="item">
-          <blockquote>
-            <div class="row">
-              <div class="col-lg-12">
-                <img class="test-img" src="images/pro2.jpg" alt="">
-                  <h3><b>Annual Meeting</b></h3>
-                <h4 >31 Dec, 2018</h4 > 
-                <p>We arrange a annual meeting and discuss the growth of our company</p></div>
-            </div>
-          </blockquote>
-        </div>
-        <div class="item">
-          <blockquote>
-            <div class="row">
-              <div class="col-lg-12">
-                <img class="test-img" src="images/pro2.jpg" alt="">
-                  <h3><b>Delhi Wood 2017
-                  </b></h3>
-                <h4 >24 Feb, 2017
-                </h4 > 
-                <p>We were participated in delhi wood 2017 at Delhi . We launched Manual Beam Saw Machine. First time in India at delhi wood</p></div>
-            </div>
-          </blockquote>
-        </div>
-      <div class="item">
-        <blockquote>
-          <div class="row">
-            <div class="col-lg-12">
-              <img class="test-img" src="images/pro2.jpg" alt="">
-                <h3><b>India Wood 2016
-                </b></h3>
-              <h4 >19 Feb, 2016
 
-              </h4 > 
-              <p>We were participated in India wood 2016 at Bangalore . We launched PUR TECHNOLOGY. First time in India at Bangalore</p></div>
-          </div>
-        </blockquote>
-      </div>
-      <div class="item">
-        <blockquote>
-          <div class="row">
-            <div class="col-lg-12">
-              <img class="test-img" src="images/pro2.jpg" alt="">
-                <h3><b>India Wood 2016
-                </b></h3>
-              <h4 >19 Feb, 2016
-
-              </h4 > 
-              <p>We were participated in India wood 2016 at Bangalore . We launched PUR TECHNOLOGY. First time in India at Bangalore</p></div>
-          </div>
-        </blockquote>
-      </div>
-    </div>
-  </div>
-</div> -->
 
 <!-- review  -->
 <div class="testimonials-wrapper review">
@@ -542,3 +436,15 @@
 </div>
 
 <?php include('footer.php'); ?>
+<script>
+$(document).ready(function() { 
+    $('#pop-up').fadeIn(1000); 
+	$('body').css("overflow-y","hidden");  
+  });
+  
+  $( ".close-form" ).click(function() {
+    $( "#pop-up" ).css("display", "none");
+	$('body').css("overflow-y","unset");
+
+  });
+</script>

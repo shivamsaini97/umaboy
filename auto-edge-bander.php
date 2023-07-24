@@ -83,7 +83,7 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6">
           <div class="single-blog-section"> 
-            <a href="auto-edge-b-detail-36.php"><img src="images/3600.png" alt=""></a>
+            <a href="auto-edge-b-detail-36.php"><img src="images/3.8-open.jpg" alt=""></a>
             <div class="blog-info">
               
               <div class="content">
@@ -98,11 +98,11 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6">
           <div class="single-blog-section"> 
-            <a href="auto-edge-b-detail-38.php"><img src="images/3800.png" alt=""></a>
+            <a href="auto-edge-b-detail-38.php"><img src="images/4.2 open.jpg" alt=""></a>
             <div class="blog-info">
               
               <div class="content">
-                <a href="auto-edge-b-detail-38.php"><h3>Auto Edge Bander Expert UEB 4.2</h3></a>
+                <a href="auto-edge-b-detail-38.php"><h3>Auto Edge Bander UEB 4.2</h3></a>
                 <div class="collor-bottom-two"></div>
               </div>
             
@@ -113,11 +113,11 @@
         </div>
         <div class="col-lg-4 col-md-6 col-sm-6">
           <div class="single-blog-section"> 
-            <a href="auto-edge-b-detail-46.php"><img src="images/4600.png" alt=""></a>
+            <a href="auto-edge-b-detail-46.php"><img src="images/6.0 pw-open.jpg" alt=""></a>
             <div class="blog-info">
               
               <div class="content">
-                <a href="auto-edge-b-detail-46.php"><h3>Auto Edge Bander Expert UEB 6.0</h3></a>
+                <a href="auto-edge-b-detail-46.php"><h3>Auto Edge Bander UEB 6.0</h3></a>
                 <div class="collor-bottom-two"></div>
               </div>
             

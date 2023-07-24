@@ -34,7 +34,7 @@
         <div class="row">
         <div class="col-md-12 about-heading">
             <h2 style="margin-bottom: 60px;"><span class="red-color">Cornor Rounding
-                with </span><span class="blue-color"> affordable prize</span></h2>
+                with </span><span class="blue-color"> Affordable Prize</span></h2>
                 <!-- <h2>Maximum Production Output With Excellent<br> Cutting ]</h2> -->
             </div>
             <div class="paragraph">
@@ -50,7 +50,7 @@
        <div class="col-md-6 text-center">
           <div class="about-text">
           
-          <img src="images/2600.png" alt=""> </div>
+          <img src="images/3.1-open.jpg" alt=""> </div>
       <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
         </div>
         <div class="col-md-6">

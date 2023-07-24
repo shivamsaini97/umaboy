@@ -154,7 +154,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
           </div>
             <div>
               <h4>Mail:</h4>
-              <p><a href="mailto:someone@example.com">someone@example.com</a></p>
+              <p><a href="mailto:enquiry@umiyamachines.com">enquiry@umiyamachines.com</a></p>
             </div>
         </div>
       </div>   

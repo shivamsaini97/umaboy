@@ -104,7 +104,7 @@
 														<li class="<?php if ($_SERVER['SCRIPT_NAME'] == "/auto-edge-bander.php") {
 																		echo 'text-light active';
 																	} ?> nav__item">
-															<a href="auto-edge-bander.php" class="nav__item-link">Edge Bandign</a>
+															<a href="auto-edge-bander.php" class="nav__item-link">Edge Banding</a>
 														</li>
 														<li class="<?php if ($_SERVER['SCRIPT_NAME'] == "/cutting.php") {
 																		echo 'active';

@@ -48,7 +48,7 @@
        <div class="col-md-6 text-center">
           <div class="about-text">
           
-          <img src="images/2600.png" alt=""> </div>
+          <img src="images/6.0 pw-open.jpg" alt=""> </div>
       <a href="contact.php" class="btn">Contact Us</a> <a href="tel:919723468755" class="btn">Call Now</a>
         </div>
         <div class="col-md-6">

@@ -1177,6 +1177,7 @@ ul.about-list a {
 	background: #000000c2;
 	position: fixed;
 	z-index: 999;
+	overflow: auto;
 }
 
 .pop-up .close-pop-up {
@@ -2682,12 +2683,12 @@ i.fa.fa-angle-right,i.fa.fa-angle-left {
 }
 @media (max-width:1500px){
 	.form-contact {
-		background: #fff;
+		/* background: #fff;
 		padding: 0;
 		border-radius: 10px;
 		overflow-y: auto;
 		overflow-x: hidden;
-		height:600px;
+		height:600px; */
 	}
 }
 @media (min-width: 992px) and (max-width: 1024px) {
@@ -3300,6 +3301,9 @@ td:not(:first-child) {
 a.left.welcome-control:focus,
 a.right.welcome-control:focus{
 	color: #000;
+}
+.popup-click h3, .popup-click p {
+	color: #2d2e2e;
 }
 @media (min-width:992px){
 	.product-menu {

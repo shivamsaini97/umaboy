@@ -1,24 +1,18 @@
 
 
-$(window).on( "load", function() {
-    setTimeout(function() {
-        $('#pop-up').show();
-    }, 500);
-    $('body, html').css("overflow-y","hidden");
-});
+// $(window).on( "load", function() {
+//     setTimeout(function() {
+//         $('#pop-up').show();
+//     }, 500);
+//     $('body, html').css("overflow-y","hidden");
+// });
 
-$('.close-form').click(function() {
-    $('#pop-up').hide();
-    $('body, html').css("overflow-y","unset");
+// $('.close-form').click(function() {
+//     $('#pop-up').hide();
+//     $('body, html').css("overflow-y","unset");
 
-})
-$(document).ready(function() { 
-    $('#pop-up').fadeIn(1000); 
-       
-  });
-  $( ".close-form" ).click(function() {
-    $( "#pop-up" ).css("display", "none");
-  });
+// })
+
 
   $(function() {
     'use strict'; // Start of use strict

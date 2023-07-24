@@ -91,16 +91,43 @@
           </div>
       </div>
       <div class="col-md-4 text-center" style="margin-top: 30px;"> 
+          <a href="images/pdf/modal.pdf" class="popup-click" download>
           <div class="finance">
-            
             <img src="images/Training-Centers.jpg" alt="" style="margin-bottom: 20px;">
-            <div class="fia">
-              <h3><b>Training Centers</b> </h3>
-            <p>Umiya Machines are equipped to Launch Certification Training Courses for the youth looking for a opportunities of employments. Umiya Machines will provide Certificate Training and will be placed with good salaries & perks after successful Training.</p>
+              <div class="fia">
+                <h3><b>Training Centers</b> </h3>
+              <p>Umiya Machines are equipped to Launch Certification Training Courses for the youth looking for a opportunities of employments. Umiya Machines will provide Certificate Training and will be placed with good salaries & perks after successful Training.</p>
+              </div>
             </div>
-          </div>
+          </a>
       </div>
     </div>
   </div>
 </section>
+<section class="pop-up2 pop-up" style="display:none ;">
+<div class="container">
+    <div class="row">
+        <div class="col-md-6 col-sm-8 col-xs-12">
+            <div class="form-contact">
+                <a class="close-form " href="javascript:void(0)">x</a>
+                <img src="images/modal.jpg" alt="" />
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+
 <?php include('footer.php'); ?>
+<script>
+
+  $('.popup-click').click(function(){
+    $( ".pop-up2" ).css("display", "block");
+	  $('body').css("overflow-y","hidden");  
+  });
+  
+  $( ".close-form" ).click(function() {
+    $( ".pop-up2" ).css("display", "none");
+	  $('body').css("overflow-y","unset");
+
+  });
+</script>
