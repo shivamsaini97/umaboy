@@ -391,7 +391,9 @@ div.logo-bar .mainmenu-area {
   float: left;
 } */
 .navbar-header img {
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.118);
+	/* box-shadow: 0 1px 3px rgba(0, 0, 0, 0.118);
+	 */
+	width: 138px;
 }
 .affix .navbar-header:after {
 	display: none;
